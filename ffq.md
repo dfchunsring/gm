@@ -1,72 +1,16 @@
 <IMG SRC="img/free-2.png" width=880><br>
 
- <div align="center">
-   <h1><b>突破封锁看世界 翻墙请先下软件</b></h1>
-   <table class="fangqian">
-      <tbody>
-        <tr>
-          <td width="230"></td>
-          <td width="330">
-            <b>安卓</b>
-          </td>
-          <td width="330">
-            <b>桌机</b>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <b>自由门</b>
-          </td>
-          <td>
-            <a href="https://github.com/gb3344/show1/blob/master/fanQing/fgma.apk?raw=true"><b>安卓版</b></a>
-          </td>
-         <td>
-            <a href="https://github.com/gb3344/show1/blob/master/fanQing/fg764p.zip?raw=true"><b>专业版</b></a>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <b>无界</b>
-          </td><td>
-            <a href="https://github.com/gb3344/show1/blob/master/fanQing/um.apk?raw=true"><b>无界一点通</b></a>
-          </td>
-         <td>
-            <a href="https://github.com/gb3344/show1/blob/master/fanQing/u.zip?raw=true"><b>无界浏览</b></a>
-          </td>
-        </tr>
-       <tr>
-          <td>
-            <b>爱博</b>
-          </td>
-         <td></td>
-          <td>
-            <a href="https://github.com/gb3344/show1/blob/master/fanQing/Green_iPPOTV.exe?raw=true"><b>爱博电视</b></a>
-          </td>
-        </tr>
-       <tr>
-          <td>
-           <b> iNTDTV</b>
-          </td>
-          <td>
-            <a href="https://github.com/gb3344/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true"><b>iNTDTV</b></a>
-          </td>
-          <td><//td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-
 <hr>
 
-<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/download/epub/fangqian.epub?raw=true">无界、自由门桌机和手机使用说明，含爱博电视使用说明视频，请下载epub 电子书。</a></b></h1>
+<h1 align="center"><b><a href="https://github.com/3fmd/gm/blob/master/gm/epub/fangqian.epub?raw=true">无界、自由门桌机和手机使用说明，含爱博电视使用说明视频，请下载epub 电子书。</a></b></h1>
 
 <h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/epub.md">■  手机上好看的电子书（ePub版）■ 手机、电脑打开方法，请这里下载！</a></b></h1>
 
 <hr>
 
-<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/Green_iPPOTV.exe?raw=true">爱博电视PC版-iPPOTV Ver.12（0944C）</a></b></h1>
+<h1 align="center"><b><a href="https://github.com/3fmd/gm/blob/master/gm/fq/Green_iPPOTV.exe?raw=true">爱博电视PC版-iPPOTV Ver.12（0944C）</a></b></h1>
 
-<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/ippotvm.mp4?raw=true">爱博电视演示使用说明(MP4)，这是桌机版的软件，在桌机上全频观看会更清楚。</a></b></h1>
+<h1 align="center"><b><a href="https://github.com/3fmd/gm/blob/master/gm/fq/ippotvm.mp4?raw=true">爱博电视演示使用说明(MP4)，这是桌机版的软件，在桌机上全频观看会更清楚。</a></b></h1>
 
 爱博电视是绿色软件，用户下载软件后，双击文件，会出现类似安装的对话窗，这是为了解压缩，让用户选择语言设置，接受协议，和建立桌面图标。并非安装。 用户也可以把iPPOTV文件夹拷贝到USB Pen Drive上随身携带。使用时只需将USB Pen Drive插在任何一个Windows电脑上，然后双击“iPPOTV.exe”文件就可以打开爱博电视了。 iPPOTV文件夹的位置通常就在安装文件所在的位置。如果用户是从光盘上安装爱博电视，iPPOTV文件夹会被安装到如下位置：
 
@@ -86,7 +30,7 @@ SHA1:47b45cef7ec0d68b4520b7ec9632a3b6a1b742f8
 
 <hr>
 
-<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/um.apk?raw=true">"无界一点通"是安卓版的翻墙软件, 让您看到没有被过滤的真实讯息。适用于安卓手机/安卓机顶盒等安卓平台。(下载)</a></b></h1>
+<h1 align="center"><b><a href="https://github.com/3fmd/gm/blob/master/gm/fq/um.apk?raw=true">"无界一点通"是安卓版的翻墙软件, 让您看到没有被过滤的真实讯息。适用于安卓手机/安卓机顶盒等安卓平台。(下载)</a></b></h1>
 
 sha256: 4918b2889fc97a96e0e386bd2112f6ec075f4912dc1d8d5a9c54e7e6f121b32a<br>
 md5: 1ef1b1bff93e66533f19283c09291e34
@@ -248,7 +192,7 @@ md5: 1ef1b1bff93e66533f19283c09291e34
 
 <hr>
 
-<h1 align="center"><a href="https://github.com/gb3344/show1/blob/master/fanQing/wujieliulan_desktop_17.04_20171112.zip?raw=true"><b>无界浏览使用说明(下载)</a></b></h1>
+<h1 align="center"><a href="https://github.com/3fmd/gm/blob/master/gm/fq/wujieliulan_desktop_17.04_20171112.zip?raw=true"><b>无界浏览使用说明(下载)</a></b></h1>
 
   <p>以用户的安全与使用方便为第一、无界网络公司的网络专家们集多年互联网高技术的研发与创新经验，不断将突破网络封锁的技术改朝换代。</p>
 
@@ -483,7 +427,7 @@ md5: 1ef1b1bff93e66533f19283c09291e34
 
 <hr>
 
-<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/fgma.apk?raw=true">自由门软件(手机版)说明(下载)</a></b></h1>
+<h1 align="center"><b><a href="https://github.com/3fmd/gm/blob/master/gm/fq/fgma.apk?raw=true">自由门软件(手机版)说明(下载)</a></b></h1>
 
 <b>说明:</b>
 
@@ -500,7 +444,7 @@ md5: 1ef1b1bff93e66533f19283c09291e34
 
 <hr>
 
-<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/fg764p.zip?raw=true">自由门软件(桌机版)使用说明书(下载)</a></b></h1>
+<h1 align="center"><b><a href="https://github.com/3fmd/gm/blob/master/gm/fq/fg764p.zip?raw=true">自由门软件(桌机版)使用说明书(下载)</a></b></h1>
 
 <p>自由门高级版：最新一代技术，突破封锁能力最强。需要管理员权限，个别网络环境不能使用。其它与专业版相似。</p>
 <p>自由门专业版：历史最久，使用人数最多。自由门会自动设置IE代理。如果使用其它浏览器（火狐浏览器），请自行设置浏览器的代理服务器(127.0.0.1:8580)后浏览。</p>
@@ -570,13 +514,13 @@ md5: 1ef1b1bff93e66533f19283c09291e34
 
 <hr>
 
-<h1 align="center"><b><a href="https://github.com/gb3344/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true">新唐人安卓版--iNTD TV ver 2.1.12 (2017年02月07日发布)</a></b></h1>
+<h1 align="center"><b><a href="https://github.com/3fmd/gm/blob/master/gm/fq/iNTD_TVsp1.apk?raw=true">新唐人安卓版--iNTD TV ver 2.1.12 (2017年02月07日发布)</a></b></h1>
 
 iNTD TV ver. 2.1.12 有以下两个apk，安装和使用说明如下。
 
-（1）<a href="https://github.com/gb3344/show1/blob/master/fanQing/iNTD_TV.apk?raw=true">iNTD_TV.apk：海外用户使用该apk，大陆用户如果没有程序被自动删除问题，可以用该apk
+（1）<a href="https://github.com/3fmd/gm/blob/master/gm/fq/iNTD_TV.apk?raw=true">iNTD_TV.apk：海外用户使用该apk，大陆用户如果没有程序被自动删除问题，可以用该apk
 
-（2）<a href="https://github.com/gb3344/show1/blob/master/fanQing/iNTD_TVsp1.apk?raw=true">iNTD_TVsp1.apk</a>：适合用于程序被自动删除或隐藏的国产机顶盒等。该apk安装后，呈现的名字是 tv2.1.12sp1。该程序的命名规则为： tvX.X.XXspY, X 是版本号，Y是第几个sp版。例如，以后有新版发布，自动升级后呈现的名字 tv2.1.13sp1.apk
+（2）<a href="https://github.com/3fmd/gm/blob/master/gm/fq/iNTD_TVsp1.apk?raw=true">iNTD_TVsp1.apk</a>：适合用于程序被自动删除或隐藏的国产机顶盒等。该apk安装后，呈现的名字是 tv2.1.12sp1。该程序的命名规则为： tvX.X.XXspY, X 是版本号，Y是第几个sp版。例如，以后有新版发布，自动升级后呈现的名字 tv2.1.13sp1.apk
 注：升级新版后，旧版的 tvX.X.XXspY 不会被自动删除，需要用户手动删除。
 
 iNTD_TVsp1.apk (簡易下载链接：bit.ly/2lkajC7)
@@ -608,4 +552,3 @@ SHA1: BC646365E96F33A27067AE57053380DB73A4EE30
       <p></p></li>
     </ul>
       </div>
-

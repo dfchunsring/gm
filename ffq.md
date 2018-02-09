@@ -1,5 +1,61 @@
 <IMG SRC="gm/img/free-2.png" width=880><br>
 
+ <div align="center">
+   <h1><b>突破封锁看世界 翻墙请先下软件</b></h1>
+   <table class="fangqian">
+      <tbody>
+        <tr>
+          <td width="230"></td>
+          <td width="330">
+            <b>安卓</b>
+          </td>
+          <td width="330">
+            <b>桌机</b>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>自由门</b>
+          </td>
+          <td>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/fgma.apk?raw=true"><b>安卓版</b></a>
+          </td>
+         <td>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/fg764p.zip?raw=true"><b>专业版</b></a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>无界</b>
+          </td><td>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/um.apk?raw=true"><b>无界一点通</b></a>
+          </td>
+         <td>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/u.zip?raw=true"><b>无界浏览</b></a>
+          </td>
+        </tr>
+       <tr>
+          <td>
+            <b>爱博</b>
+          </td>
+         <td></td>
+          <td>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/Green_iPPOTV.exe?raw=true"><b>爱博电视</b></a>
+          </td>
+        </tr>
+       <tr>
+          <td>
+           <b> iNTDTV</b>
+          </td>
+          <td>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/iNTD_TVsp1.apk?raw=true"><b>iNTDTV</b></a>
+          </td>
+          <td><//td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
 <hr>
 
 <h1 align="center"><b><a href="https://github.com/3fmd/gm/blob/master/gm/epub/fangqian.epub?raw=true">无界、自由门桌机和手机使用说明，含爱博电视使用说明视频，请下载epub 电子书。</a></b></h1>

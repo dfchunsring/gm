@@ -77,7 +77,7 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 </tr>
 <tr>
 	<td>【共产主义的终极目的中国篇】</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a>&nbsp;&nbsp;<a href="https://git.io/8k">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/goodabc/GCC/blob/master/zjmd.md" target="_blank">mp4播报版 epub </a></td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a>&nbsp;&nbsp;<a href="https://git.io/8k">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/goodabc/GCC/blob/master/zjmd.md" target="_blank">mp4播报版 epub </a></td>
 </tr>
 <tr>
 	<td>解體黨文化</td>
@@ -105,8 +105,18 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 </tr>
 <tr>
 	<td>一位律师的肺腑直言</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/lawyer.epub?raw=true">圖文epub</a></td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/lawyer.epub?raw=true">圖文epub</a></td>
 </tr>
+<tr>
+<td>【明慧周报大陆版】（第675期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_675.epub?raw=true">圖文epub</a></td>
+</tr>
+<td>【明慧周报大陆版】（第674期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_674.epub?raw=true">圖文epub</a></td>
+</tr>
+<td>【明慧周报大陆版】（第673期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_673.epub?raw=true">圖文epub</a></td>
+</tr>	
 </table>
  <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>
  </body>

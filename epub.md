@@ -108,6 +108,18 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/lawyer.epub?raw=true">圖文epub</a></td>
 </tr>
 <tr>
+<td>【明慧周报大陆版】（第678期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_678.epub?raw=true">圖文epub</a></td>
+</tr>
+<tr>
+<td>【明慧周报大陆版】（第677期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_677.epub?raw=true">圖文epub</a></td>
+</tr>
+<tr>
+<td>【明慧周报大陆版】（第676期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_676.epub?raw=true">圖文epub</a></td>
+</tr>		
+<tr>
 <td>【明慧周报大陆版】（第675期）</td>
 <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_675.epub?raw=true">圖文epub</a></td>
 </tr>

@@ -136,5 +136,13 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 </table>
  <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>
  </body>
+  <div class="zxxh">
+    <ul>
+      <li><span class="h2Minghui"> ■ </span> 真相小花提供最真实、及时的真相视频、音频和电子书 
+      <p></p></li>
+      <li><span class="h2Minghui"> ■ </span>突破网络封锁访问真相小花， <a href="https://git.io/goal">https://git.io/goal</a>。 这个链接国内不屏蔽，请妥为收藏，页面有真相部落及时IP，也可以下载所有最新版翻墙软件，如自由门、无界、爱博、iNTD等 
+      <p></p></li>
+    </ul>
+  </div>
 </html>
 

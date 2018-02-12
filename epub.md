@@ -134,8 +134,6 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_673.epub?raw=true">圖文epub</a></td>
 </tr>	
 </table>
- <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>
- </body>
   <div class="zxxh">
     <ul>
       <li><span class="h2Minghui"> ■ </span> 真相小花提供最真实、及时的真相视频、音频和电子书 
@@ -144,5 +142,7 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
       <p></p></li>
     </ul>
   </div>
+ <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>
+ </body>
 </html>
 

@@ -66,7 +66,7 @@
 
 <h1 align="center"><b><a href="https://github.com/3fmd/gm/blob/master/gm/fq/Green_iPPOTV.exe?raw=true">爱博电视PC版-iPPOTV Ver.12（0944C）</a></b></h1>
 
-<h1 align="center"><b><a href="https://github.com/3fmd/gm/blob/master/gm/fq/ippotvm.mp4?raw=true">爱博电视演示使用说明(MP4)，这是桌机版的软件，在桌机上全频观看会更清楚。</a></b></h1>
+<h1 align="center"><b><a href="https://github.com/3fmd/gm/blob/master/gm/fq/iPPOTV.mp4?raw=true">爱博电视演示使用说明(MP4)，这是桌机版的软件，在桌机上全频观看会更清楚。</a></b></h1>
 
 爱博电视是绿色软件，用户下载软件后，双击文件，会出现类似安装的对话窗，这是为了解压缩，让用户选择语言设置，接受协议，和建立桌面图标。并非安装。 用户也可以把iPPOTV文件夹拷贝到USB Pen Drive上随身携带。使用时只需将USB Pen Drive插在任何一个Windows电脑上，然后双击“iPPOTV.exe”文件就可以打开爱博电视了。 iPPOTV文件夹的位置通常就在安装文件所在的位置。如果用户是从光盘上安装爱博电视，iPPOTV文件夹会被安装到如下位置：
 

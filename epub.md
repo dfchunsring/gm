@@ -1,4 +1,4 @@
- <a href="https://git.io/sss"><IMG SRC="img/s3.jpg" width=880></p>
+ <a href="https://git.io/sss"><IMG SRC="gm/img/s3.jpg" width=880></p>
 
 <body>
  <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>

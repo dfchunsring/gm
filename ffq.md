@@ -1,5 +1,5 @@
 <a href="https://git.io/sss"><IMG SRC="gm/img/s3.jpg" width=880></p>
-
+<H1 align="center">错过2018年新唐人全球华人新年晚会的朋友，元宵节可能还有一场回放，再错过可能要再等一年，请大家告诉大家！</H1>
 <IMG SRC="gm/img/free-2.png" width=880><br>
 
  <div align="center">

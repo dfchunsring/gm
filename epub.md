@@ -1,4 +1,6 @@
- <a href="https://git.io/sss"><IMG SRC="gm/img/a0301.jpg" width=880></p>
+<IMG SRC="gm/img/sy-IP-orange-0302.jpg" width=880></p>
+
+<a href="https://git.io/sss"><IMG SRC="gm/img/a0301.jpg" width=880></p>
 <H1 align="center">请大家告诉大家错过可能得再等一年！请通过翻墙软件自由门、无界浏览或iNTD TV看观</H1>
 <body>
  <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>

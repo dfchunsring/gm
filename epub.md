@@ -1,7 +1,8 @@
-<IMG SRC="gm/img/sy-IP-orange-0302.jpg" width=880></p>
+<IMG SRC="gm/img/lian-y3-0306.jpg" width=880></p>
+<IMG SRC="gm/img/sy-IP-orange-0306.jpg" width=880>
+	<a href="https://git.io/good"><b>神韵晚会台湾场次表 epub电子书</b></a>
+<h4><a href="http://www.shenyun.com">观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</a></h4>
 
-<a href="https://git.io/sss"><IMG SRC="gm/img/a0301.jpg" width=880></p>
-<H1 align="center">请大家告诉大家错过可能得再等一年！请通过翻墙软件自由门、无界浏览或iNTD TV看观</H1>
 <body>
  <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>
 

@@ -74,7 +74,7 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 </tr>
 <tr>
         <td>【16年前的长春3.05插播壮举】</td>
-        <td><a href="https://git.io/305">圖文epub</a></td>
+        <td><a href="https://git.io/305">圖文、視頻epub</a></td>
 </tr>		
 <tr>
 <td>【共产主义的终极目的中国篇】</td>

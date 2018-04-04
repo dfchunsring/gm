@@ -79,31 +79,45 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 <tr>
         <td>【三亿退党潮 亿万人的觉醒之旅】</td>
         <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/300Mst.epub?raw=true">圖文、視頻epub</a></td>
-</tr>		
-<tr>
-<td>【共产主义的终极目的中国篇】</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a>&nbsp;&nbsp;<a href="https://git.io/8k">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/3fmd/gm/blob/master/gm/epub/goalmp3Npr.epub?raw=true" target="_blank">mp4播报版 epub </a></td>
 </tr>
+
+<tr>
+        <td>【共产主义的终极目的中国篇】</td>
+        <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a></td>
+</tr>
+
+<tr>
+        <td>【共产主义的终极目的中国篇】</td>
+        <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/goalmp3Npr.epub?raw=true">8k音頻epub</a></td>
+</tr>
+
+<tr>
+        <td>【共产主义的终极目的中国篇】</td>
+        <td><a href="https://github.com/goodabc/GCC/blob/master/zjmd.md">mp4播报版</a></td>
+</tr>
+
 <tr>	
 <tr>
 	<td>【突破封锁看世界】翻墙软件手册</td>
 	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/fangqian.epub?raw=true">圖文、視頻epub</a></td>
 </tr>	
+
+</tr>		
+	<td>【九评共产党】</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/jpgcdm4a5k.epub?raw=true">圖文epub</a></td>
+</tr>	
+
 <tr>
         <td>【16年前的长春3.05插播壮举】</td>
         <td><a href="https://git.io/305">圖文、視頻epub</a></td>
-</tr>		
 
-	<td>【九评共产党】</td>
-	<td><a href="https://git.io/9ping">圖文epub</a></td>
-</tr>	
 <tr>
 	<td>2018新唐人全球华人新年晚会——神韵晚会</td>
 	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/sy.epub?raw=true">圖文、視頻epub</a></td>
 </tr>
 
 <tr>
-	<td>解體黨文化</td>
+	<td>解体党文化</td>
 	<td><a href="https://git.io/jtdwh">圖文epub</a></td>
 </tr>
 <tr>

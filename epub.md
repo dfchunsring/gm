@@ -106,7 +106,10 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 	<td>【九评共产党】</td>
 	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/jpgcdm4a5k.epub?raw=true">圖文epub</a></td>
 </tr>	
-
+<tr>
+	<td>江泽民其人</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-p-2018.epub?raw=true">圖文epub</a></td>
+</tr>
 <tr>
         <td>【16年前的长春3.05插播壮举】</td>
         <td><a href="https://git.io/305">圖文、視頻epub</a></td>
@@ -124,10 +127,7 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 	<td>马克思的成魔之路</td>
 	<td><a href="https://git.io/mks">圖文epub</a></td>
 </tr>
-<tr>
-	<td>江泽民其人</td>
-	<td><a href="https://git.io/jzmqr">圖文epub</a></td>
-</tr>
+
 <tr>
 	<td>风雨天地行</td>
 	<td><a href="https://git.io/fytdx">圖文epub</a></td>

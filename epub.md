@@ -69,26 +69,26 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 <h1>其他epub电子书</h1>
 <table  cellspacing="1" cellpadding="1">
 <tr  width="880">
-	<td  width="540"></td>
-	<td  width="350">說明</td>
+	<td  width="640"></td>
+	<td  width="250">說明</td>
 </tr>
 <tr>
         <td>【法轮大法洪传世界】</td>
-        <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/fldfhao.epub?raw=true">圖文、視頻epub</a></td>
+        <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/fldfhao.epub?raw=true">圖文、視頻</a></td>
 </tr>	
 <tr>
         <td>【三亿退党潮 亿万人的觉醒之旅】</td>
-        <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/300Mst.epub?raw=true">圖文、視頻epub</a></td>
+        <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/300Mst.epub?raw=true">圖文、視頻</a></td>
 </tr>
 
 <tr>
         <td>【共产主义的终极目的中国篇】</td>
-        <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a></td>
+        <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/gbUltiGoalCmChina.epub?raw=true">圖文</a></td>
 </tr>
 
 <tr>
         <td>【共产主义的终极目的中国篇】</td>
-        <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/goalmp3Npr.epub?raw=true">8k音頻epub</a></td>
+        <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/goalmp3Npr.epub?raw=true">8k音頻</a></td>
 </tr>
 
 <tr>
@@ -99,72 +99,72 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 <tr>	
 <tr>
 	<td>【突破封锁看世界】翻墙软件手册</td>
-	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/fangqian.epub?raw=true">圖文、視頻epub</a></td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/fangqian.epub?raw=true">圖文、視頻</a></td>
 </tr>	
 
 </tr>		
 	<td>【九评共产党】</td>
-	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/jpgcdm4a5k.epub?raw=true">圖文epub</a></td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/jpgcdm4a5k.epub?raw=true">圖文</a></td>
 </tr>	
 <tr>
 	<td>江泽民其人</td>
-	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-p-2018.epub?raw=true">圖文epub</a></td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-p-2018.epub?raw=true">圖文</a></td>
 </tr>
 <tr>
         <td>【16年前的长春3.05插播壮举】</td>
-        <td><a href="https://git.io/305">圖文、視頻epub</a></td>
+        <td><a href="https://git.io/305">圖文、視頻</a></td>
 
 <tr>
 	<td>2018新唐人全球华人新年晚会——神韵晚会</td>
-	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/sy.epub?raw=true">圖文、視頻epub</a></td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/sy.epub?raw=true">圖文、視頻</a></td>
 </tr>
 
 <tr>
 	<td>解体党文化</td>
-	<td><a href="https://git.io/jtdwh">圖文epub</a></td>
+	<td><a href="https://git.io/jtdwh">圖文</a></td>
 </tr>
 <tr>
 	<td>马克思的成魔之路</td>
-	<td><a href="https://git.io/mks">圖文epub</a></td>
+	<td><a href="https://git.io/mks">圖文</a></td>
 </tr>
 
 <tr>
 	<td>风雨天地行</td>
-	<td><a href="https://git.io/fytdx">圖文epub</a></td>
+	<td><a href="https://git.io/fytdx">圖文</a></td>
 </tr>
 <tr>
 	<td>为什么要三退</td>
-	<td><a href="https://git.io/whytd">圖文epub</a></td>
+	<td><a href="https://git.io/whytd">圖文</a></td>
 </tr>
 <tr>
 	<td>死刑犯遮不住器官市场的蘑菇云</td>
-	<td><a href="https://git.io/mro">圖文epub</a></td>
+	<td><a href="https://git.io/mro">圖文</a></td>
 </tr>
 <tr>
 	<td>一位律师的肺腑直言</td>
-	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/lawyer.epub?raw=true">圖文epub</a></td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/lawyer.epub?raw=true">圖文</a></td>
 </tr>
 <tr>
 <td>【明慧周报大陆版】（第678期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_678.epub?raw=true">圖文epub</a></td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_678.epub?raw=true">圖文</a></td>
 </tr>
 <tr>
 <td>【明慧周报大陆版】（第677期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_677.epub?raw=true">圖文epub</a></td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_677.epub?raw=true">圖文</a></td>
 </tr>
 <tr>
 <td>【明慧周报大陆版】（第676期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_676.epub?raw=true">圖文epub</a></td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_676.epub?raw=true">圖文</a></td>
 </tr>		
 <tr>
 <td>【明慧周报大陆版】（第675期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_675.epub?raw=true">圖文epub</a></td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_675.epub?raw=true">圖文</a></td>
 </tr>
 <td>【明慧周报大陆版】（第674期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_674.epub?raw=true">圖文epub</a></td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_674.epub?raw=true">圖文</a></td>
 </tr>
 <td>【明慧周报大陆版】（第673期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_673.epub?raw=true">圖文epub</a></td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_673.epub?raw=true">圖文</a></td>
 </tr>	
 </table>
   <div class="zxxh">

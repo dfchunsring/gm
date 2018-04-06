@@ -106,7 +106,7 @@
 
 ###  ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览器或阅读软件打开查看。</p>
 
-### (推荐)Reasily - EPUB 阅读器，可以觀看視頻、音頻EPUB。
+### (推荐)Reasily - EPUB 阅读器，可以觀看視頻、音頻EPUB。<a href="https://github.com/3fmd/gm/blob/master/gm/download/Reasily1802h.apk?raw=true">直接下载</a>
 
 ePub是在手持阅读设备（包括手机等）上最受支持的电子书格式，很多手持设备自带的阅读器都支持ePub而无需安装额外软件，苹果手机自带的阅读器iBooks，以及安卓
 手机上谷歌的阅读器软件“Play 图书”（Play Books）软件都很好的支持ePub格式。

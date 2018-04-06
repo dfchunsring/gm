@@ -1,5 +1,6 @@
-<h1><b>手机上好看的电子书（ePub版）</b></h1>
-<table  cellspacing="1" cellpadding="1">
+<h1 align="center"><b>手机上好看的电子书（ePub版）</b></h1>
+<div align="center">
+<table  cellspacing="1" cellpadding="1">
 <tr  width="890">
 	<td  width="640">书名</td>
 	<td  width="250">說明</td>
@@ -99,7 +100,7 @@
 <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_673.epub?raw=true">圖文</a></td>
 </tr>	
 </table>
-
+</div>
 ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览器或阅读软件打开查看。
 ePub是在手持阅读设备（包括手机等）上最受支持的电子书格式，很多手持设备自带的阅读器都支持ePub而无需安装额外软件，苹果手机自带的阅读器iBooks，以及安卓手机上谷歌的阅读器软件“Play 图书”（Play Books）软件都很好的支持ePub格式。ePub格式的电子书能自动根据阅读器屏幕的大小，手持方向等实时排版以获得优化的阅读效果。读者可以在ePub书里添加书签、注释，改变字体及大小，能搜索，非常方便。
 

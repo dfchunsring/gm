@@ -7,11 +7,11 @@
 	<td  width="250">說明</td>
 </tr>
 <tr>
-        <td>【法轮大法洪传世界】</td>
+        <td width="640">【法轮大法洪传世界】</td>
         <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/fldfhao.epub?raw=true">圖文、視頻</a></td>
 </tr>	
 <tr>
-        <td>【三亿退党潮 亿万人的觉醒之旅】</td>
+        <td width="640">【三亿退党潮 亿万人的觉醒之旅】</td>
         <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/300Mst.epub?raw=true">圖文、視頻</a></td>
 </tr>
 

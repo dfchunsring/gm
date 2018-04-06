@@ -66,11 +66,11 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 直接下载Windows版：<a href="storage.googleapis.com/windows_updates/setup_1_1_1006.exe" target="_blank">storage.googleapis.com/windows_updates/setup_1_1_1006.exe</a><br><br>
 
 
-<h1>其他款电子书</h1>
+<h1>其他epub电子书</h1>
 <table  cellspacing="1" cellpadding="1">
 <tr  width="880">
-	<td  width="280"></td>
-	<td  width="600">說明</td>
+	<td  width="6000"></td>
+	<td  width="280">說明</td>
 </tr>
 <tr>
         <td>【法轮大法洪传世界】</td>

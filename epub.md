@@ -69,8 +69,8 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 <h1>其他epub电子书</h1>
 <table  cellspacing="1" cellpadding="1">
 <tr  width="880">
-	<td  width="500"></td>
-	<td  width="390">說明</td>
+	<td  width="540"></td>
+	<td  width="350">說明</td>
 </tr>
 <tr>
         <td>【法轮大法洪传世界】</td>

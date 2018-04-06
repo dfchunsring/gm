@@ -1,5 +1,5 @@
 <h1 align="center"><b>手机上好看的电子书（ePub版）</b></h1>
-<div align="center">
+
 <table  cellspacing="1" cellpadding="1">
 <tr  width="890">
 	<td  width="640">书名</td>
@@ -100,7 +100,7 @@
 <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_673.epub?raw=true">圖文</a></td>
 </tr>	
 </table>
-</div>
+
 </p>
 
 ###  ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览器或阅读软件打开查看。</p>

@@ -3,8 +3,8 @@
 
 <table  cellspacing="1" cellpadding="1">
 <tr  width="890">
-	<td  width="640">书名</td>
-	<td  width="250">說明</td>
+	<td align="center" width="640">书名</td>
+	<td align="center" width="250">說明</td>
 </tr>
 <tr>
         <td width="640">【法轮大法洪传世界】</td>

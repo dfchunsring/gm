@@ -81,8 +81,8 @@
 </tr>
         <tr>
         <td align="center" width="450"><img src="gm/img/9ping01.jpg"></td>
-        <td width="450"> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jpgcdm4a5k.epub?raw=true"><img src="gm/img/epub-1.jpg"></a><br>
-<a href="https://github.com/3fmd/gm/blob/master/gm/img/9ping01qr.png"><div align="center"><img src="gm/img/qr4.jpg"></div></a><p>《九评共产党》，给为祸人间一个多世纪的国际共产主义运动，特别是中国共产党盖棺论定。是一篇将在历史上留下深远影响的不朽之作。  
+        <td width="450"> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jpgcdm4a5k.epub?raw=true"><img src="gm/img/epub-4.jpg"></a><br>
+<a href="https://github.com/3fmd/gm/blob/master/gm/img/9ping01qr.png"><div align="center"><img src="gm/img/qr1.jpg"></div></a><p>《九评共产党》，给为祸人间一个多世纪的国际共产主义运动，特别是中国共产党盖棺论定。是一篇将在历史上留下深远影响的不朽之作。  
         </td>
 </tr>
 </table>

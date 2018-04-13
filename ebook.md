@@ -6,7 +6,7 @@
         </td>
 </tr>
         <tr>
-        <td align="center" width="450"><img src="gm/img/9ping01.jpg"></td>
+        <td align="center" width="450"><img src="gm/img/9ping01.jpg"><img src="gm/img/9p.png"></td>
         <td width="450"> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jpgcdm4a5k.epub?raw=true">epub 下載  (视频、图文)</a>
 <p>《九评共产党》，给为祸人间一个多世纪的国际共产主义运动，特别是中国共产党盖棺论定。是一篇将在历史上留下深远影响的不朽之作。       
         </td>

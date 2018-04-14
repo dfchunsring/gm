@@ -10,7 +10,7 @@
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/hao-1"><img src="gm/img/fldfhao-2-397-300.jpg"></a>
-        <td align="center"><img src="gm/img/fldfhaoqr-300-300.png"></td>
+        <td align="center" width="450"><img src="gm/img/fldfhaoqr-300-300.png"></td>
 </tr>
  <tr>
  <td align="center" colspan="2">法轮大法自1992年5月在中国传出以来，传遍神州大地。法轮大法洪传世界一百多个国家和地区，使上亿人身心受益。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/fldfhao.epub?raw=true">epub 下載  (视频、图文)</td>
@@ -19,8 +19,8 @@
      </tr>
       <td align="center" colspan="2"><h1><b><a href="https://github.com/3fmd/gm/blob/master/gm/epub/fldfhao.epub?raw=true">《三亿中華兒女三退大潮》</b></a></h1>
     <tr>
-        <td align="center" height="300"><img src="gm/img/41-h300.jpg"></a></td>
-         <td align="center"><img src="gm/img/fldfhaoqr-300-300.png"></td>
+        <td align="center" width="550"><img src="gm/img/41-h300.jpg"></a></td>
+         <td align="center" width="450"><img src="gm/img/fldfhaoqr-300-300.png"></td>
  </tr>
       <td align="center" colspan="2">
 自2004年11月19日大纪元发表系列社论《九评共产党》以来，中国人在大纪元网站上声明退出中共党、团、队组织。迄今为止，在大纪元退党网站声明“三退”的人数已突破三亿。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/fldfhao.epub?raw=true">epub 下載  (视频、图文)</td>

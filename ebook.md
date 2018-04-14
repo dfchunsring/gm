@@ -1,3 +1,8 @@
+8
+
+<img src="gm/img/fldfhao-800-500.jpg">
+
+
 7
 <table>
 
@@ -10,7 +15,7 @@
 
   </tr>
         <tr>
-        <td align="center" width="450"><img src="gm/img/41.jpg"></a></td></td>
+        <td align="center" width="450" heigh="300"><img src="gm/img/41.jpg"></a></td>
          <td align="center"><img src="gm/img/fldfhaoqr-300-300.png"></td>
  </tr>
       <td align="center" colspan="2"><b>《三亿中華兒女三退大潮》</b></a><br>

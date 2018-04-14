@@ -6,7 +6,7 @@
 7
 <table>
   <tr>
-<td align="center" colspan="2"><b>【法轮大法洪传世界】</b>
+<td align="center" colspan="2"><h1><b><a href="https://github.com/3fmd/gm/blob/master/gm/epub/fldfhao.epub?raw=true">【法轮大法洪传世界】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/hao-1"><img src="gm/img/fldfhao-2-397-300.jpg"></a>
@@ -17,7 +17,7 @@
   </tr>
   <p>
      </tr>
-      <td align="center" colspan="2"><b>《三亿中華兒女三退大潮》</b></a>
+      <td align="center" colspan="2"><h1><b><a href="https://github.com/3fmd/gm/blob/master/gm/epub/fldfhao.epub?raw=true">《三亿中華兒女三退大潮》</b></a></h1>
     <tr>
         <td align="center" height="300"><img src="gm/img/41-h300.jpg"></a></td>
          <td align="center"><img src="gm/img/fldfhaoqr-300-300.png"></td>

@@ -15,7 +15,7 @@
 
   </tr>
         <tr>
-        <td align="center" height="300"><img src="gm/img/41.jpg"></a></td>
+        <td align="center" height="300"><img src="gm/img/41-h300.jpg"></a></td>
          <td align="center"><img src="gm/img/fldfhaoqr-300-300.png"></td>
  </tr>
       <td align="center" colspan="2"><b>《三亿中華兒女三退大潮》</b></a><br>

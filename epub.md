@@ -54,10 +54,6 @@
 </tr>
 
 <tr>	
-<tr>
-	<td>【突破封锁看世界】翻墙软件手册</td>
-	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/fangqian.epub?raw=true">圖文、視頻</a></td>
-</tr>	
 
 </tr>		
 	<td>【九评共产党】</td>

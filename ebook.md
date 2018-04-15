@@ -1,6 +1,3 @@
-8
-
-<img src="gm/img/fldfhao-800-500.jpg">
 
 
 7

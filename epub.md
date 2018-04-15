@@ -24,7 +24,7 @@
         <td align="center" width="450"><img src="gm/img/fangqian-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">中共為什麼要封鎖？是因為黨特別害怕人民得到自由的訊息。自由門、無界等堤供安卓版與电脑版免費又安全的翻牆軟件。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/fangqian.epub?raw=true">epub 下載  (视频、图文)</td>
+<td align="center" colspan="2">中共为什么要封锁？是因为党特别害怕人民得到自由的讯息。自由门、无界等堤供安卓版与电脑版免费又安全的翻墙软件。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/fangqian.epub?raw=true">epub 下载  (视频、图文)</td>
   </tr>
 </table>
 	

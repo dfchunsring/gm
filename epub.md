@@ -12,7 +12,7 @@
         <td align="center" width="450"><img src="gm/img/xxx-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">自2004年11月19日大纪元发表系列社论 <a href="xxx">epub 下載  (视频、图文)</td>
+ <td align="center" colspan="2">共产主义来自何处？为什么宇宙中会冒出个共产党？共产主义的本质究竟是什么？结局又会怎样？对这些根本问题的答案，人们众说纷纭，现在是揭开谜底的时候了。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/gbUltiGoalCmChina.epub?raw=true">epub 下載  (图文)</td>
   </tr>
 </table>
 

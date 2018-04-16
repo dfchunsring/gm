@@ -5,6 +5,19 @@
 
 <table>
   <tr>
+<td align="center" colspan="2"><h1><b><a href="https://github.com/3fmd/gm/blob/master/gm/epub/gbUltiGoalCmChina.epub?raw=true">【《共产主义的终极目的-中国篇》】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://github.com/3fmd/gm/blob/master/gm/epub/gbUltiGoalCmChina.epub?raw=true"><img src="gm/img/gbUltiGoalCmChina.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/xxx-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">自2004年11月19日大纪元发表系列社论 <a href="xxx">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
 <td align="center" colspan="2"><h1><b><a href="https://git.io/300Mst">【三亿退党潮】</a></b></h1>
  </tr>
 <tr>

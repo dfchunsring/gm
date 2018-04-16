@@ -33,13 +33,13 @@
 <td align="center" colspan="2"><h1><b><a href="https://git.io/jzm">【江泽民其人】</a></b></h1>
  </tr>
 <tr>
-        <td align="center" width="550"><a href="https://git.io/jzm"><img src="gm/img/jzmqr-p-2.jpg.jpg"></a>
+        <td align="center" width="550"><a href="https://git.io/jzm"><img src="gm/img/jzmqr.jpg"></a>
         <td align="center" width="450"><img src="gm/img/jzmqr-p-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">江泽民到底是个什么样的人？他的出身到底如何？他怎么从一个不被看好的过渡性人物党同伐异，成为一个独裁者？历史安排了他这样一个人到底是为了扮演什么角色？<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-p-2018.epub?raw=true
+ <td align="center" colspan="2">江泽民到底是个什么样的人？他的出身到底如何？他怎么从一个不被看好的过渡性人物党同伐异，成为一个独裁者？历史安排了他这样一个人到底是为了扮演什么角色？大纪元编辑部深感还原历史真相是我们不可推卸的责任，因此精心搜集资料，并特别从中共高层挖掘到很多有关江泽民的内幕和秘闻，整理出这本三十万字的《江泽民其人》，资料宏富，体大思精。这些鲜为人知的故事，不但构成了一个完整而真实的江泽民，更以跨越时空的方式揭示江泽民前世今生，并预告其下场。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-p-2018.epub?raw=true
 ">epub 下載  (图文)<br>
-<a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pal-5k-2018.epub?raw=true">epub 下載  (音频全书-网络链接)<br> 
+<a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pal-5k-2018.epub?raw=true">epub 下載  (音频全书-网络链接)
 <br>	 
 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pa-5k1-2018.epub?raw=true">epub 下載  (音频全书-实体镶崁-上)<br>
 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pa-5k2-2018.epub?raw=true">epub 下載  (音频全书-实体镶崁-下)

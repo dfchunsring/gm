@@ -20,7 +20,7 @@
 <td align="center" colspan="2"><h1><b><a href="https://git.io/fqq">【突破封锁看世界】翻墙软件手册</a></b></h1>
  </tr>
 <tr>
-        <td align="center" width="550"><a href="https://git.io/fqqt"><img src="gm/img/fangqian.jpg"></a>
+        <td align="center" width="550"><a href="https://git.io/fqq"><img src="gm/img/fangqian2.jpg"></a>
         <td align="center" width="450"><img src="gm/img/fangqian-qr.png"></td>
 </tr>
  <tr>

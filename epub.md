@@ -27,6 +27,21 @@
 <td align="center" colspan="2">中共为什么要封锁？是因为党特别害怕人民得到自由的讯息。自由门、无界等提供安卓版与电脑版免费又安全的翻墙软件。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/fangqian.epub?raw=true">epub 下载  (视频、图文)</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/jzm">【江泽民其人】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/jzm"><img src="gm/img/jzmqr-p-2.jpg.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/jzmqr-p-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">江泽民到底是个什么样的人？他的出身到底如何？他怎么从一个不被看好的过渡性人物党同伐异，成为一个独裁者？历史安排了他这样一个人到底是为了扮演什么角色？ <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-p-2018.epub?raw=true
+">epub 下載  (图文)</td>
+  </tr>
+</table>
+
 	
 <table  cellspacing="1" cellpadding="1">
 <tr  width="890">

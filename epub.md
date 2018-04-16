@@ -37,8 +37,13 @@
         <td align="center" width="450"><img src="gm/img/jzmqr-p-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">江泽民到底是个什么样的人？他的出身到底如何？他怎么从一个不被看好的过渡性人物党同伐异，成为一个独裁者？历史安排了他这样一个人到底是为了扮演什么角色？ <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-p-2018.epub?raw=true
-">epub 下載  (图文)</td>
+ <td align="center" colspan="2">江泽民到底是个什么样的人？他的出身到底如何？他怎么从一个不被看好的过渡性人物党同伐异，成为一个独裁者？历史安排了他这样一个人到底是为了扮演什么角色？<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-p-2018.epub?raw=true
+">epub 下載  (图文)<br>
+<a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pal-5k-2018.epub?raw=true">epub 下載  (音频全书-网络链接)<br> 
+<br>	 
+<a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pa-5k1-2018.epub?raw=true">epub 下載  (音频全书-实体镶崁-上)<br>
+<a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pa-5k2-2018.epub?raw=true">epub 下載  (音频全书-实体镶崁-下)
+</td>
   </tr>
 </table>
 

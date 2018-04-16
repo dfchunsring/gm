@@ -9,7 +9,7 @@
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://github.com/3fmd/gm/blob/master/gm/epub/gbUltiGoalCmChina.epub?raw=true"><img src="gm/img/gbUltiGoalCmChina.jpg"></a>
-        <td align="center" width="450"><img src="gm/img/xxx-qr.png"></td>
+        <td align="center" width="450"><img src="gm/img/gbUltiGoalCmChina.png"></td>
 </tr>
  <tr>
  <td align="center" colspan="2">共产主义来自何处？为什么宇宙中会冒出个共产党？共产主义的本质究竟是什么？结局又会怎样？对这些根本问题的答案，人们众说纷纭，现在是揭开谜底的时候了。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/gbUltiGoalCmChina.epub?raw=true">epub 下載  (图文)</td>
@@ -70,12 +70,6 @@
         <td width="640">【法轮大法洪传世界】</td>
         <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/fldfhao.epub?raw=true">圖文、視頻</a></td>
 </tr>	
-
-<tr>
-        <td>【共产主义的终极目的中国篇】</td>
-        <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/gbUltiGoalCmChina.epub?raw=true">圖文</a></td>
-</tr>
-
 <tr>
         <td>【共产主义的终极目的中国篇】</td>
         <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/goalmp3Npr.epub?raw=true">8k音頻</a></td>

@@ -79,10 +79,7 @@
 	<td>【九评共产党】</td>
 	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/jpgcdm4a5k.epub?raw=true">圖文</a></td>
 </tr>	
-<tr>
-	<td>江泽民其人</td>
-	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-p-2018.epub?raw=true">圖文、音頻</a></td>
-</tr>
+
 <tr>
         <td>【16年前的长春3.05插播壮举】</td>
         <td><a href="https://git.io/305">圖文、視頻</a></td>

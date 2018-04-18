@@ -71,10 +71,6 @@
         <td width="640">【法轮大法洪传世界】</td>
         <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/fldfhao.epub?raw=true">圖文、視頻</a></td>
 </tr>	
-<tr>
-        <td>【共产主义的终极目的中国篇】</td>
-        <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/goalmp3Npr.epub?raw=true">8k音頻</a></td>
-</tr>
 
 <tr>
         <td>【共产主义的终极目的中国篇】</td>

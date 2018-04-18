@@ -29,6 +29,20 @@
  <td align="center" colspan="2">自2004年11月19日大纪元发表系列社论《九评共产党》以来，中国人在大纪元网站上声明退出中共党、团、队组织。截止到2018年3月23日美东时间凌晨4点时，在大纪元退党网站声明“三退”的人数已突破三亿。该中心负责人易蓉说，从退党人数增长的速度和人们的态度来看，中国人的人心已经发生了巨大的变化。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/300Mst.epub?raw=true">epub 下載  (视频、图文)</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/hao-1">【法轮大法洪传世界】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/hao-1"><img src="gm/img/fldfhao.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/fldfhao-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">法轮修炼大法（又称法轮功）是由李洪志先生创编的佛家上乘修炼大法，同化宇宙最高特性“真、善、忍”，按照宇宙演化原理而修炼，修的是大法大道。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/fldfhao.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
 <table>
   <tr>
 <td align="center" colspan="2"><h1><b><a href="https://git.io/fqq">【突破封锁看世界】翻墙软件手册</a></b></h1>
@@ -67,10 +81,7 @@
 	<td align="center" width="640">书名</td>
 	<td align="center" width="250">說明</td>
 </tr>
-<tr>
-        <td width="640">【法轮大法洪传世界】</td>
-        <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/fldfhao.epub?raw=true">圖文、視頻</a></td>
-</tr>	
+
 
 <tr>
         <td>【共产主义的终极目的中国篇】</td>

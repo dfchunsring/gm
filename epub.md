@@ -136,7 +136,18 @@
   </tr>
 </table>
 
-
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/jtdwh1">【《解体党文化》】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/jtdwh1"><img src="gm/img/jtdwh.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/jtdwh-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">本系列文章将分析中共是如何系统的替代传统文化，如何系统的进行思想改造，采用何种灌输手段，以及被改造思想后人们的种种表现。宣传中常见的党文化、党文化的话语系统、生活中的党文化以及习惯性的党文化思维这些遍及思想、语言以及行为上的具体表现也将在本文中详加论述。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jtdwh-apfl.epub?raw=true">epub 下載  (音频全书-图文-网络链接)<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jtdwh-afl.epub?raw=true">epub 下載  (音频全书-文-网络链接)<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jtdwh-ap1.epub?raw=true">epub 下載  (音频全书-实体镶崁-上)<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jtdwh-ap2.epub?raw=true">epub 下載  (音频全书-实体镶崁-下)</td>
+  </tr>
+</table>
 
 <table  cellspacing="1" cellpadding="1">
 <tr  width="890">

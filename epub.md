@@ -91,6 +91,22 @@
   </tr>
 </table>
 
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="xxx">【16年前的长春3.05插播壮举】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="xxxt"><img src="gm/img/305.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/xxx-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">2002 年 3 月 5 日,《是自焚还是骗局》等真相电视片在长春有线电视播出,长春沸腾了! 震惊的人们纷纷电话告诉亲友同事，让他们打开电视看真相——原来天安门自焚是假的！原来对法轮功的报道是栽赃啊，原来国外都知道法轮功好啊……</p>
+
+这次成功的电视插播,是大陆有线电视网络争取自由、传播真相的杰作，民众都站在了正义一边。江泽民听到之后,怒不可遏地发出密令“杀无赦”！警方开始疯狂地在全城大搜捕。约 5000 名法轮功学员在长春被抓了,不计其数的人被迫流离失所,参与长春插播事件的18名法轮功学员,侯明凯在派出所被打死,15人被非法判刑4至20年(至今8人已被酷刑折磨致死),另2人失踪。</p><br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/305.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
 	
 <table  cellspacing="1" cellpadding="1">
 <tr  width="890">

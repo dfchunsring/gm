@@ -94,11 +94,11 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="xxx">【16年前的长春3.05插播壮举】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/305">【16年前的长春3.05插播壮举】</a></b></h1>
  </tr>
 <tr>
-        <td align="center" width="550"><a href="xxxt"><img src="gm/img/305.jpg"></a>
-        <td align="center" width="450"><img src="gm/img/xxx-qr.png"></td>
+        <td align="center" width="550"><a href="https://git.io/305"><img src="gm/img/305.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/305-qr.png"></td>
 </tr>
  <tr>
  <td align="center" colspan="2">2002 年 3 月 5 日,《是自焚还是骗局》等真相电视片在长春有线电视播出,长春沸腾了! 震惊的人们纷纷电话告诉亲友同事，让他们打开电视看真相——原来天安门自焚是假的！原来对法轮功的报道是栽赃啊，原来国外都知道法轮功好啊……</p>
@@ -113,12 +113,6 @@
 	<td align="center" width="640">书名</td>
 	<td align="center" width="250">說明</td>
 </tr>
-
-<tr>
-        <td>【16年前的长春3.05插播壮举】</td>
-        <td><a href="https://git.io/305">圖文、視頻</a></td>
-
-<tr>
 	<td>2018新唐人全球华人新年晚会——神韵晚会</td>
 	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/sy.epub?raw=true">圖文、視頻</a></td>
 </tr>

@@ -149,19 +149,24 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/good">【2018新唐人全球华人新年晚会——神韵晚会】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/good"><img src="gm/img/sy.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/sy-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">2018新唐人全球华人新年晚会——神韵晚会 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/sy.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
 <table  cellspacing="1" cellpadding="1">
 <tr  width="890">
 	<td align="center" width="640">书名</td>
 	<td align="center" width="250">說明</td>
-</tr>
-	<td>2018新唐人全球华人新年晚会——神韵晚会</td>
-	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/sy.epub?raw=true">圖文、視頻</a></td>
-</tr>
 
-<tr>
-	<td>解体党文化</td>
-	<td><a href="https://git.io/jtdwh">圖文</a></td>
-</tr>
 <tr>
 	<td>马克思的成魔之路</td>
 	<td><a href="https://git.io/mks">圖文</a></td>

@@ -34,22 +34,6 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/why">【为什么要三退】</a></b></h1>
- </tr>
-<tr>
-        <td align="center" width="550"><a href="https://git.io/why"><img src="gm/img/whytd.jpg"></a>
-        <td align="center" width="450"><img src="gm/img/whytd-qr.png"></td>
-</tr>
- <tr>
- <td align="center" colspan="2">中共拉人入党最重要的一环，就是让人对党旗发誓，“为共产主义奋斗终身，随时准备为党和人民牺牲一切，永不叛党。”这个誓言是一个不折不扣的毒誓。少先队：“我在队旗下宣誓……准备着：为共产主义事业，贡献出一切力量！”<br>
-共青团：“……为共产主义事业而奋斗！”<br>
-共产党：“……为共产主义奋斗终身，随时准备为党和人民牺牲一切。”<br>
-这些誓词，没有一点伦理道德的因素，没有正义，听起来令人毛骨悚然，被其绑架的感觉，让你为它卖命、把性命交给它。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/whytd.epub?raw=true">epub 下載  (音频、图文)</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
 <td align="center" colspan="2"><h1><b><a href="https://git.io/hao-1">【法轮大法洪传世界】</a></b></h1>
  </tr>
 <tr>
@@ -72,6 +56,22 @@
  <tr>
  <td align="center" colspan="2">《九评》主要是对共产主义和共产党（尤其是中国共产党）政治观及宇宙观的评价，以及对其统治中国大陆期间的历史事件造成的影响。书的扉页上这样介绍：“它全面揭示中共建政以来的一切谎言邪说，帮助世人认清了中共的本质。” 英文大纪元时报编辑斯蒂文指出，“九评是大纪元献给中国人民的礼物"。"在经过了多年的谎言毒害和恐怖胁迫，中国人通过九评能系统、理论性地了解历史真相；彼此交流中共的统治给他们造成的巨大痛苦和损失；走出中共的梦魇，重新思考已被共产党破坏的中国美好而又伟大的古老文明。”<br>
 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jpgcd-tal-8k.epub?raw=true">epub 下載  (音频全书-网络链接)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/jpgcdm4a5k.epub?raw=true">epub 下載  (音频全书-实体镶崁)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/why">【为什么要三退】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/why"><img src="gm/img/whytd.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/whytd-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">中共拉人入党最重要的一环，就是让人对党旗发誓，“为共产主义奋斗终身，随时准备为党和人民牺牲一切，永不叛党。”这个誓言是一个不折不扣的毒誓。少先队：“我在队旗下宣誓……准备着：为共产主义事业，贡献出一切力量！”<br>
+共青团：“……为共产主义事业而奋斗！”<br>
+共产党：“……为共产主义奋斗终身，随时准备为党和人民牺牲一切。”<br>
+这些誓词，没有一点伦理道德的因素，没有正义，听起来令人毛骨悚然，被其绑架的感觉，让你为它卖命、把性命交给它。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/whytd.epub?raw=true">epub 下載  (音频、图文)</td>
   </tr>
 </table>
 
@@ -160,10 +160,7 @@
 	<td>风雨天地行</td>
 	<td><a href="https://git.io/fytdx">圖文</a></td>
 </tr>
-<tr>
-	<td>为什么要三退</td>
-	<td><a href="https://git.io/whytd">圖文</a></td>
-</tr>
+
 <tr>
 	<td>死刑犯遮不住器官市场的蘑菇云</td>
 	<td><a href="https://git.io/mro">圖文</a></td>

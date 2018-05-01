@@ -107,6 +107,18 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/lss">【一位律师的肺腑直言】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/lss"><img src="gm/img/lawyer.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/lawyer-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">这是中国大陆一位法轮功学员讲述的一位正义律师的肺腑之言。这个律师的故事震憾了我，也震憾了许多人，有的人一遍又一遍看这个故事，眼中满含热泪。希望更多的人能够看到这个故事，从中得到启发，在至关重要的是非、善恶、正邪之间作出正确的抉择。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/lawyer.epub?raw=true">epub 下載  (图文)</td>
+  </tr>
+</table>
 	
 <table  cellspacing="1" cellpadding="1">
 <tr  width="890">

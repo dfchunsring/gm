@@ -54,7 +54,7 @@
         <td align="center" width="450"><img src="gm/img/jpgcd-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">《九评》主要是对共产主义和共产党（尤其是中国共产党）政治观及宇宙观的评价，以及对其统治中国大陆期间的历史事件造成的影响。书的扉页上这样介绍：“它全面揭示中共建政以来的一切谎言邪说，帮助世人认清了中共的本质。” 英文大纪元时报编辑斯蒂文指出，“九评是大纪元献给中国人民的礼物"。"在经过了多年的谎言毒害和恐怖胁迫，中国人通过九评能系统、理论性地了解历史真相；彼此交流中共的统治给他们造成的巨大痛苦和损失；走出中共的梦魇，重新思考已被共产党破坏的中国美好而又伟大的古老文明。”
+ <td align="center" colspan="2">《九评》主要是对共产主义和共产党（尤其是中国共产党）政治观及宇宙观的评价，以及对其统治中国大陆期间的历史事件造成的影响。书的扉页上这样介绍：“它全面揭示中共建政以来的一切谎言邪说，帮助世人认清了中共的本质。” 英文大纪元时报编辑斯蒂文指出，“九评是大纪元献给中国人民的礼物"。"在经过了多年的谎言毒害和恐怖胁迫，中国人通过九评能系统、理论性地了解历史真相；彼此交流中共的统治给他们造成的巨大痛苦和损失；走出中共的梦魇，重新思考已被共产党破坏的中国美好而又伟大的古老文明。”<>
 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jpgcd-tal-8k.epub?raw=true">epub 下載  (音频全书-网络链接)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/jpgcdm4a5k.epub?raw=true">epub 下載  (音频全书-实体镶崁)</td>
   </tr>
 </table>
@@ -97,13 +97,6 @@
 	<td align="center" width="640">书名</td>
 	<td align="center" width="250">說明</td>
 </tr>
-
-<tr>	
-
-</tr>		
-	<td>【九评共产党】</td>
-	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/jpgcdm4a5k.epub?raw=true">圖文</a></td>
-</tr>	
 
 <tr>
         <td>【16年前的长春3.05插播壮举】</td>

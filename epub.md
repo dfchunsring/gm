@@ -152,7 +152,7 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/689">【明慧周报大陆版】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/689">【明慧周报大陆版（第六八九期）】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/689t"><img src="gm/img/MHZB.jpg"></a>

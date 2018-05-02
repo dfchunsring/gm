@@ -183,20 +183,57 @@
 	<td align="center" width="250">說明</td>
 
 <tr>
-	<td width="640">马克思的成魔之路</td>
-	<td><a href="https://git.io/mks">圖文</a></td>
+<td width="640">【明慧周报大陆版】（第689期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_689.epub?raw=true">圖文</a></td>
 </tr>
-
 <tr>
-	<td width="640">风雨天地行</td>
-	<td><a href="https://git.io/fytdx">圖文</a></td>
+<td width="640">【明慧周报大陆版】（第688期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_688.epub?raw=true">圖文</a></td>
 </tr>
-
 <tr>
-	<td>死刑犯遮不住器官市场的蘑菇云</td>
-	<td><a href="https://git.io/mro">圖文</a></td>
+<td width="640">【明慧周报大陆版】（第687期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_687.epub?raw=true">圖文</a></td>
 </tr>
-
+<tr>
+<td width="640">【明慧周报大陆版】（第686期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_686.epub?raw=true">圖文</a></td>
+</tr>
+<tr>
+<td width="640">【明慧周报大陆版】（第685期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_685.epub?raw=true">圖文</a></td>
+</tr>
+<tr>
+<td width="640">【明慧周报大陆版】（第678期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_678.epub?raw=true">圖文</a></td>
+</tr>
+<tr>
+<td width="640">【明慧周报大陆版】（第678期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_678.epub?raw=true">圖文</a></td>
+</tr>
+<tr>
+<td width="640">【明慧周报大陆版】（第684期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_684.epub?raw=true">圖文</a></td>
+</tr>
+<tr>
+<td width="640">【明慧周报大陆版】（第683期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_683.epub?raw=true">圖文</a></td>
+</tr>
+<tr>
+<td width="640">【明慧周报大陆版】（第682期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_682.epub?raw=true">圖文</a></td>
+</tr>
+<tr>
+<td width="640">【明慧周报大陆版】（第681期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_681.epub?raw=true">圖文</a></td>
+</tr>
+<tr>
+<td width="640">【明慧周报大陆版】（第680期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_680.epub?raw=true">圖文</a></td>
+</tr>
+<tr>
+<td width="640">【明慧周报大陆版】（第679期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_679.epub?raw=true">圖文</a></td>
+</tr>
 <tr>
 <td width="640">【明慧周报大陆版】（第678期）</td>
 <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_678.epub?raw=true">圖文</a></td>
@@ -218,7 +255,21 @@
 </tr>
 <td width="640">【明慧周报大陆版】（第673期）</td>
 <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_673.epub?raw=true">圖文</a></td>
-</tr>	
+</tr>
+<tr>
+	<td width="640">马克思的成魔之路</td>
+	<td><a href="https://git.io/mks">圖文</a></td>
+</tr>
+
+<tr>
+	<td width="640">风雨天地行</td>
+	<td><a href="https://git.io/fytdx">圖文</a></td>
+</tr>
+
+<tr>
+	<td>死刑犯遮不住器官市场的蘑菇云</td>
+	<td><a href="https://git.io/mro">圖文</a></td>
+</tr>
 </table>
 
 </p>

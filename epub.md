@@ -149,6 +149,21 @@
   </tr>
 </table>
 
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/689">【明慧周报大陆版】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/689t"><img src="gm/img/MHZB.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/MHZB_689-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">《明慧周报》隶属于法轮大法明慧网，取材于明慧网，旨在帮助社会各界了解法轮功真相，其中包括明慧网首发的法轮功学员在大陆被迫害的真相、法轮功修炼真相，法轮功学员对“真善忍”的理解和实践，对宇宙、人生、人体、生命本质的看法和人生感悟等等。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_689.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+
 <table>
   <tr>
 <td align="center" colspan="2"><h1><b><a href="https://git.io/good">【2018新唐人全球华人新年晚会——神韵晚会】</a></b></h1>

@@ -1,7 +1,7 @@
 <IMG SRC="gm/img/lian-y3-0430.jpg" width=880></p>
 <h1 align="center"><b>手机上好看的电子书（ePub版）</b></h1>
 
-<h2 align="center"> (推荐)Reasily - EPUB 阅读器，可以观看视频、音频EPUB。<a href="https://github.com/3fmd/gm/blob/master/gm/download/Reasily1802h.apk?raw=true">直接下载</a></h2>
+<h2 align="center"> (推荐)Reasily - EPUB 阅读器，可以观看视频、音频EPUB。<br><a href="https://github.com/3fmd/gm/blob/master/gm/download/Reasily1802h.apk?raw=true">点击直接下载</a></h2>
 
 <table>
   <tr>
@@ -12,7 +12,7 @@
         <td align="center" width="450"><img src="gm/img/goalmp3Npr-qr-1.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">共产主义来自何处？为什么宇宙中会冒出个共产党？共产主义的本质究竟是什么？结局又会怎样？对这些根本问题的答案，人们众说纷纭，现在是揭开谜底的时候了。<br>为什么共产党取得政权之后，仍然不断发动各种运动，乃至发动“史无前例”的文化大革命？为什么中国共产党要以中国人和中国文化为敌，必欲除之而后快？为什么在过去的一个世纪里，中国成为被共产邪灵控制最严密、迫害最残酷的民族？ <a href="https://github.com/3fmd/gm/blob/master/gm/epub/gbUltiGoalCmChina.epub?raw=true">epub 下載  (图文)<br>	 
+ <td align="center" colspan="2">共产主义来自何处？为什么宇宙中会冒出个共产党？共产主义的本质究竟是什么？结局又会怎样？对这些根本问题的答案，人们众说纷纭，现在是揭开谜底的时候了。<br>为什么共产党取得政权之后，仍然不断发动各种运动，乃至发动“史无前例”的文化大革命？为什么中国共产党要以中国人和中国文化为敌，必欲除之而后快？为什么在过去的一个世纪里，中国成为被共产邪灵控制最严密、迫害最残酷的民族？<> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/gbUltiGoalCmChina.epub?raw=true">epub 下載  (图文)<br>	 
 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/goalmp3Npr.epub?raw=true">epub 下載  (音频全书-实体镶崁)<br>
 <a href="https://github.com/goodabc/GCC/blob/master/zjmd.md">epub 下載  (mp4播报版)</a>	
 	</td>
@@ -179,7 +179,7 @@
 
 <table  cellspacing="1" cellpadding="1">
 <tr  width="890">
-	<td align="center" width="640">书名</td>
+	<td align="center" width="640">更多epub版电子书</td>
 	<td align="center" width="250">說明</td>
 
 <tr>

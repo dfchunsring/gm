@@ -183,12 +183,12 @@
 	<td align="center" width="250">說明</td>
 
 <tr>
-	<td>马克思的成魔之路</td>
+	<td width="640">马克思的成魔之路</td>
 	<td><a href="https://git.io/mks">圖文</a></td>
 </tr>
 
 <tr>
-	<td>风雨天地行</td>
+	<td width="640">风雨天地行</td>
 	<td><a href="https://git.io/fytdx">圖文</a></td>
 </tr>
 
@@ -198,25 +198,25 @@
 </tr>
 
 <tr>
-<td>【明慧周报大陆版】（第678期）</td>
+<td width="640">【明慧周报大陆版】（第678期）</td>
 <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_678.epub?raw=true">圖文</a></td>
 </tr>
 <tr>
-<td>【明慧周报大陆版】（第677期）</td>
+<td width="640">【明慧周报大陆版】（第677期）</td>
 <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_677.epub?raw=true">圖文</a></td>
 </tr>
 <tr>
-<td>【明慧周报大陆版】（第676期）</td>
+<td width="640">【明慧周报大陆版】（第676期）</td>
 <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_676.epub?raw=true">圖文</a></td>
 </tr>		
 <tr>
-<td>【明慧周报大陆版】（第675期）</td>
+<td width="640">【明慧周报大陆版】（第675期）</td>
 <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_675.epub?raw=true">圖文</a></td>
 </tr>
-<td>【明慧周报大陆版】（第674期）</td>
+<td width="640">【明慧周报大陆版】（第674期）</td>
 <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_674.epub?raw=true">圖文</a></td>
 </tr>
-<td>【明慧周报大陆版】（第673期）</td>
+<td width="640">【明慧周报大陆版】（第673期）</td>
 <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_673.epub?raw=true">圖文</a></td>
 </tr>	
 </table>

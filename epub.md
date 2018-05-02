@@ -132,7 +132,7 @@
         <td align="center" width="450"><img src="gm/img/lawyer-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">这是中国大陆一位法轮功学员讲述的一位正义律师的肺腑之言。这个律师的故事震憾了我，也震憾了许多人，有的人一遍又一遍看这个故事，眼中满含热泪。希望更多的人能够看到这个故事，从中得到启发，在至关重要的是非、善恶、正邪之间作出正确的抉择。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/lawyer.epub?raw=true">epub 下載  (图文)</td>
+ <td align="center" colspan="2">这是中国大陆一位法轮功学员讲述的一位正义律师的肺腑之言。这个律师的故事震憾了我，也震憾了许多人，有的人一遍又一遍看这个故事，眼中满含热泪。希望更多的人能够看到这个故事，从中得到启发，在至关重要的是非、善恶、正邪之间作出正确的抉择。<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/lawyer.epub?raw=true">epub 下載  (图文)</td>
   </tr>
 </table>
 
@@ -159,7 +159,7 @@
         <td align="center" width="450"><img src="gm/img/MHZB_689-qrt.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">《明慧周报》隶属于法轮大法明慧网，取材于明慧网，旨在帮助社会各界了解法轮功真相，其中包括明慧网首发的法轮功学员在大陆被迫害的真相、法轮功修炼真相，法轮功学员对“真善忍”的理解和实践，对宇宙、人生、人体、生命本质的看法和人生感悟等等。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_689.epub?raw=true">epub 下載  (视频、图文)</td>
+ <td align="center" colspan="2">《明慧周报》隶属于法轮大法明慧网，取材于明慧网，旨在帮助社会各界了解法轮功真相，其中包括明慧网首发的法轮功学员在大陆被迫害的真相、法轮功修炼真相，法轮功学员对“真善忍”的理解和实践，对宇宙、人生、人体、生命本质的看法和人生感悟等等。<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_689.epub?raw=true">epub 下載  (图文)</td>
   </tr>
 </table>
 
@@ -173,7 +173,7 @@
         <td align="center" width="450"><img src="gm/img/sy-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">【大纪元2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/sy.epub?raw=true">epub 下載  (视频、图文)</td>
+ <td align="center" colspan="2">【大纪元2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/sy.epub?raw=true">epub 下載  (视频、图文)</td>
   </tr>
 </table>
 

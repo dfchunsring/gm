@@ -90,6 +90,19 @@
 
 <table>
   <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/xz-1">【小之每日真相】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/xz-2"><img src="gm/img/2018-The_daily_truth.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/2018-The_daily_truth-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">风儿轻轻地吹 音信飘过大海高山 日日为你牵挂 只为你能平安 抛弃红魔见真相 待到天清复明那日 快快乐乐得太平 小之每日真相为你而来．．．<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_1.epub?raw=true">epub 下載  (小之每日真相-1 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_2.epub?raw=true">epub 下載  (小之每日真相-2 音频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
 <td align="center" colspan="2"><h1><b><a href="https://git.io/jzm">【江泽民其人】</a></b></h1>
  </tr>
 <tr>

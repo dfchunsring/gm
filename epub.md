@@ -90,7 +90,7 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/xz-1">【小之每日真相】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/wnn">【小之每日真相】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/xz-2"><img src="gm/img/2018-The_daily_truth.jpg"></a>

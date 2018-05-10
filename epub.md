@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://github.com/3fmd/gm/blob/master/gm/epub/gbUltiGoalCmChina.epub?raw=true">【《共产主义的终极目的-中国篇》】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/goal">【《共产主义的终极目的-中国篇》】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://github.com/3fmd/gm/blob/master/gm/epub/gbUltiGoalCmChina.epub?raw=true"><img src="gm/img/gbUltiGoalCmChina.jpg"></a>
@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/300Mst">【三亿退党潮】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="http://git.io/zb">【三亿退党潮】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/300Mst"><img src="https://github.com/3fmd/gm/blob/master/gm/img/300Mst.jpg"></a>
@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/hao-1">【法轮大法洪传世界】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/hao">【法轮大法洪传世界】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/hao-1"><img src="gm/img/fldfhao.jpg"></a>
@@ -47,7 +47,7 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/jpgcd">【九评共产党】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/9m">【九评共产党】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/jpgcd"><img src="gm/img/jpgcd.jpg"></a>
@@ -61,7 +61,7 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/why">【为什么要三退】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="http://git.io/zb">【为什么要三退】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/why"><img src="gm/img/whytd.jpg"></a>
@@ -77,7 +77,7 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/fqq">【突破封锁看世界】翻墙软件手册</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/ree">【突破封锁看世界】翻墙软件手册</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/fqq"><img src="gm/img/fangqian2.jpg"></a>
@@ -103,7 +103,7 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/jzm">【江泽民其人】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://github.com/dfchunsring/wer/blob/master/jzmqr.md">【江泽民其人】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/jzm"><img src="gm/img/jzmqr.jpg"></a>
@@ -123,7 +123,7 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/305">【16年前的长春3.05插播壮举】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/zf">【16年前的长春3.05插播壮举】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/305"><img src="gm/img/305.jpg"></a>
@@ -138,7 +138,7 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/lss">【一位律师的肺腑直言】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/yer">【一位律师的肺腑直言】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/lss"><img src="gm/img/lawyer.jpg"></a>

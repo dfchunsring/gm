@@ -176,20 +176,6 @@
   </tr>
 </table>
 
-
-<table>
-  <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/good">【2018新唐人全球华人新年晚会——神韵晚会】</a></b></h1>
- </tr>
-<tr>
-        <td align="center" width="550"><a href="https://git.io/good"><img src="gm/img/sy.jpg"></a>
-        <td align="center" width="450"><img src="gm/img/sy-qr.png"></td>
-</tr>
- <tr>
- <td align="center" colspan="2">【大纪元2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/sy.epub?raw=true">epub 下載  (视频、图文)</td>
-  </tr>
-</table>
-
 <table  cellspacing="1" cellpadding="1">
 <tr  width="890">
 	<td align="center" width="640">更多epub版电子书</td>
@@ -285,7 +271,7 @@
 </tr>
 <tr>
 	<td><a href="https://git.io/good">【2018新唐人全球华人新年晚会——神韵晚会】</a></td>
-	<td><a href="<a href="https://github.com/3fmd/gm/blob/master/gm/epub/sy.epub?raw=true">【大纪元2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。(视频、图文)</a></td>
+	<td><a href="<a href="https://github.com/3fmd/gm/blob/master/gm/epub/sy.epub?raw=true">(视频、图文)</a></td>
 </tr>
 </table>
 

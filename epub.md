@@ -283,6 +283,10 @@
 	<td>死刑犯遮不住器官市场的蘑菇云</td>
 	<td><a href="https://git.io/mro">圖文</a></td>
 </tr>
+<tr>
+	<td><a href="https://git.io/good">【2018新唐人全球华人新年晚会——神韵晚会】</a></td>
+	<td><a href="<a href="https://github.com/3fmd/gm/blob/master/gm/epub/sy.epub?raw=true">【大纪元2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。(视频、图文)</a></td>
+</tr>
 </table>
 
 </p>

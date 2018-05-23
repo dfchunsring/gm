@@ -84,7 +84,7 @@
         <td align="center" width="450"><img src="gm/img/ccrs-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">欢迎您收听《传奇人生》节目，和您分享他們的傳奇故事。<a href="https://github.com/3fmd/gm/blob/master/gm/epub/ccrs-20180515.epub?raw=true">epub 下載  (视频、图文)</td>
+ <td align="center" colspan="2">欢迎您收听《传奇人生》节目，和您分享他們的傳奇故事。<a href="https://github.com/3fmd/gm/blob/master/gm/epub/ccrs-20180515.epub?raw=true">epub 下載  (音频、图文)</td>
   </tr>
 </table>
 

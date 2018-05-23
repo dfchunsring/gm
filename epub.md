@@ -77,7 +77,7 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/ccrs">【【希望之聲廣播】 傳奇人生】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/ccrs">【【希望之声广播】 传奇人生】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://github.com/3fmd/gm/blob/master/gm/epub/ccrs-20180515.epub?raw=true"><img src="gm/img/ccrs.jpg"></a>

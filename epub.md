@@ -77,6 +77,19 @@
 
 <table>
   <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/ccrs">【【希望之聲廣播】 傳奇人生】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://github.com/3fmd/gm/blob/master/gm/epub/ccrs-20180515.epub?raw=true"><img src="gm/img/ccrs.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/ccrs-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">欢迎您收听《传奇人生》节目，和您分享他們的傳奇故事。<a href="https://github.com/3fmd/gm/blob/master/gm/epub/ccrs-20180515.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
 <td align="center" colspan="2"><h1><b><a href="https://git.io/ree">【突破封锁看世界】翻墙软件手册</a></b></h1>
  </tr>
 <tr>

@@ -90,6 +90,19 @@
 
 <table>
   <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/yer">【让法官傻眼的辩护词】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/bhc"><img src="gm/img/bhc.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/bhc-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">据不完全统计，二十年来，在全国有数以百计的律师，面对中共江泽民犯罪集团对法轮功学员的迫害和打压，勇敢的站出来，为法轮功学员做无罪辩护，甚至公开上书中共最高层，要求停止迫害法轮功　．．． <a href="https://github.com/3fmd/gm/blob/master/gm/epub/bhc-20180523.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
 <td align="center" colspan="2"><h1><b><a href="https://git.io/ree">【突破封锁看世界】翻墙软件手册</a></b></h1>
  </tr>
 <tr>

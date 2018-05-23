@@ -84,7 +84,7 @@
         <td align="center" width="450"><img src="gm/img/ccrs-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">欢迎您收听《传奇人生》节目，和您分享他們的傳奇故事。<a href="https://github.com/3fmd/gm/blob/master/gm/epub/ccrs-20180515.epub?raw=true">epub 下載  (音频、图文)</td>
+ <td align="center" colspan="2">欢迎您收听《传奇人生》节目，和您分享他們的傳奇故事。<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/ccrs-20180515.epub?raw=true">epub 下載  (音频、图文)</td>
   </tr>
 </table>
 
@@ -97,7 +97,7 @@
         <td align="center" width="450"><img src="gm/img/bhc-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">据不完全统计，二十年来，在全国有数以百计的律师，面对中共江泽民犯罪集团对法轮功学员的迫害和打压，勇敢的站出来，为法轮功学员做无罪辩护，甚至公开上书中共最高层，要求停止迫害法轮功　．．． <a href="https://github.com/3fmd/gm/blob/master/gm/epub/bhc-20180523.epub?raw=true">epub 下載  (视频、图文)</td>
+ <td align="center" colspan="2">据不完全统计，二十年来，在全国有数以百计的律师，面对中共江泽民犯罪集团对法轮功学员的迫害和打压，勇敢的站出来，为法轮功学员做无罪辩护，甚至公开上书中共最高层，要求停止迫害法轮功　．．． <br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/bhc-20180523.epub?raw=true">epub 下載  (视频、图文)</td>
   </tr>
 </table>
 

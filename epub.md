@@ -77,6 +77,19 @@
 
 <table>
   <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/3f">【明慧简讯_新闻时事】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://github.com/3fmd/gm/blob/master/gm/epub/mhjs-3.epub?raw=true"><img src="gm/img/mhjs.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/mhjs-3-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">新闻时事 1 （2018.3.31）（2018.4.6）（2018.4.16）<a href="https://github.com/3fmd/gm/blob/master/gm/epub/mhjs-1.epub?raw=true">epub 下載  (音频、图文)<br>新闻时事 2 （2018.3.29）（2018.4.24）<a href="https://github.com/3fmd/gm/blob/master/gm/epub/mhjs-2.epub?raw=true">epub 下載  (音频、图文))<br>新闻时事 3 （2018.5.1）（2018.5.6）<a href="https://github.com/3fmd/gm/blob/master/gm/epub/mhjs-3.epub?raw=true">epub 下載  (音频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
 <td align="center" colspan="2"><h1><b><a href="https://git.io/ccrs">【【希望之声广播】 传奇人生】</a></b></h1>
  </tr>
 <tr>

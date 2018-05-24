@@ -168,7 +168,7 @@
         <td align="center" width="450"><img src="gm/img/425-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">十九年前的“四·二五”，法轮功学员用行动为广大中国民众打开了一条理智、勇气、和平的希望之路。在法轮功学员不懈的讲真相过程中，越来越多的中国民众认清中共邪恶本质摆脱恐惧，对邪恶说不。<><a href="https://github.com/3fmd/gm/blob/master/gm/epub/425-20180524.epub?raw=true">epub 下載  (图文)</td>
+ <td align="center" colspan="2">十九年前的“四·二五”，法轮功学员用行动为广大中国民众打开了一条理智、勇气、和平的希望之路。在法轮功学员不懈的讲真相过程中，越来越多的中国民众认清中共邪恶本质摆脱恐惧，对邪恶说不。<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/425-20180524.epub?raw=true">epub 下載  (图文)</td>
   </tr>
 </table>
 

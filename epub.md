@@ -322,7 +322,7 @@
 </tr>
 <tr>
 	<td><a href="https://git.io/good">【2018新唐人全球华人新年晚会——神韵晚会】</a></td>
-	<td><a href="<a href="https://github.com/3fmd/gm/blob/master/gm/epub/sy.epub?raw=true">(视频、图文)</a></td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/sy.epub?raw=true">(视频、图文)</a></td>
 </tr>
 </table>
 

@@ -77,7 +77,7 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://github.com/pkey5/dj/blob/master/everyday.md">【这个星球上前所未有的邪恶】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/hj">【这个星球上前所未有的邪恶】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/hj-1"><img src="gm/img/hj.jpg"></a>
@@ -85,6 +85,19 @@
 </tr>
  <tr>
  <td align="center" colspan="2">中共活体摘取法轮功学员器官，群体灭绝性大屠杀 。<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/hj.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/hj">【渝婦被活摘器官時逃生 背後隱藏中共最驚人秘密】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/hj-2"><img src="gm/img/hj-2.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/hj-2-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">重庆远郊的普通村民邓光英，被一帮人强行绑架送到军医院，要活活的从她身上摘取器官，当医生举起手术刀的时候有幸逃生。更令人想不到的是，她还亲眼看到〝活摘器官〞的一幕，亲耳听到了当时的惨叫声！<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/hj-2.epub?raw=true">epub 下載  (图文)</td>
   </tr>
 </table>
 

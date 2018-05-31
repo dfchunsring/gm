@@ -77,6 +77,19 @@
 
 <table>
   <tr>
+<td align="center" colspan="2"><h1><b><a href="https://github.com/pkey5/dj/blob/master/everyday.md">【这个星球上前所未有的邪恶】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/hj-1"><img src="gm/img/hj.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/hy.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">中共活体摘取法轮功学员器官，群体灭绝性大屠杀 。<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/hj.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
 <td align="center" colspan="2"><h1><b><a href="https://git.io/3f">【明慧简讯_新闻时事】</a></b></h1>
  </tr>
 <tr>

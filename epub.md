@@ -90,7 +90,7 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/hj">【渝婦被活摘器官時逃生 背後隱藏中共最驚人秘密】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/hj">【渝妇被活摘器官时逃生 背后隐藏中共最惊人秘密】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/hj-2"><img src="gm/img/hj-2.jpg"></a>

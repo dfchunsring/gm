@@ -21,32 +21,6 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="http://git.io/zb">【三亿退党潮】</a></b></h1>
- </tr>
-<tr>
-        <td align="center" width="550"><a href="https://git.io/300Mst"><img src="https://github.com/3fmd/gm/blob/master/gm/img/300Mst.jpg"></a>
-        <td align="center" width="450"><img src="gm/img/300Mst-qr.png"></td>
-</tr>
- <tr>
- <td align="center" colspan="2">自2004年11月19日大纪元发表系列社论《九评共产党》以来，中国人在大纪元网站上声明退出中共党、团、队组织。截止到2018年3月23日美东时间凌晨4点时，在大纪元退党网站声明“三退”的人数已突破三亿。该中心负责人易蓉说，从退党人数增长的速度和人们的态度来看，中国人的人心已经发生了巨大的变化。<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/300Mst.epub?raw=true">epub 下載  (视频、图文)</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/hao">【法轮大法洪传世界】</a></b></h1>
- </tr>
-<tr>
-        <td align="center" width="550"><a href="https://git.io/hao-1"><img src="gm/img/fldfhao.jpg"></a>
-        <td align="center" width="450"><img src="gm/img/fldfhao-qr.png"></td>
-</tr>
- <tr>
- <td align="center" colspan="2">法轮修炼大法（又称法轮功）是由李洪志先生创编的佛家上乘修炼大法，同化宇宙最高特性“真、善、忍”，按照宇宙演化原理而修炼，修的是大法大道。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/fldfhao.epub?raw=true">epub 下載  (视频、图文)</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
 <td align="center" colspan="2"><h1><b><a href="https://git.io/9m">【九评共产党】</a></b></h1>
  </tr>
 <tr>
@@ -56,6 +30,39 @@
  <tr>
  <td align="center" colspan="2">《九评》主要是对共产主义和共产党（尤其是中国共产党）政治观及宇宙观的评价，以及对其统治中国大陆期间的历史事件造成的影响。书的扉页上这样介绍：“它全面揭示中共建政以来的一切谎言邪说，帮助世人认清了中共的本质。” 英文大纪元时报编辑斯蒂文指出，“九评是大纪元献给中国人民的礼物"。"在经过了多年的谎言毒害和恐怖胁迫，中国人通过九评能系统、理论性地了解历史真相；彼此交流中共的统治给他们造成的巨大痛苦和损失；走出中共的梦魇，重新思考已被共产党破坏的中国美好而又伟大的古老文明。”<br>
 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jpgcd-tal-8k.epub?raw=true">epub 下載  (音频全书-网络链接)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/jpgcdm4a5k.epub?raw=true">epub 下載  (音频全书-实体镶崁)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://github.com/dfchunsring/wer/blob/master/jzmqr.md">【江泽民其人】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/jzm"><img src="gm/img/jzmqr.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/jzmqr-p-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">江泽民到底是个什么样的人？他的出身到底如何？他怎么从一个不被看好的过渡性人物党同伐异，成为一个独裁者？历史安排了他这样一个人到底是为了扮演什么角色？大纪元编辑部深感还原历史真相是我们不可推卸的责任，因此精心搜集资料，并特别从中共高层挖掘到很多有关江泽民的内幕和秘闻，整理出这本三十万字的《江泽民其人》，资料宏富，体大思精。这些鲜为人知的故事，不但构成了一个完整而真实的江泽民，更以跨越时空的方式揭示江泽民前世今生，并预告其下场。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-p-2018.epub?raw=true
+">epub 下載  (图文)<br>
+<a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pal-5k-2018.epub?raw=true">epub 下載  (音频全书-网络链接)
+<br>	 
+<a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pa-5k1-2018.epub?raw=true">epub 下載  (音频全书-实体镶崁-上)<br>
+<a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pa-5k2-2018.epub?raw=true">epub 下載  (音频全书-实体镶崁-下)
+</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="http://git.io/zb">【三亿退党潮】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/300Mst"><img src="https://github.com/3fmd/gm/blob/master/gm/img/300Mst.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/300Mst-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">自2004年11月19日大纪元发表系列社论《九评共产党》以来，中国人在大纪元网站上声明退出中共党、团、队组织。截止到2018年3月23日美东时间凌晨4点时，在大纪元退党网站声明“三退”的人数已突破三亿。该中心负责人易蓉说，从退党人数增长的速度和人们的态度来看，中国人的人心已经发生了巨大的变化。<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/300Mst.epub?raw=true">epub 下載  (视频、图文)</td>
   </tr>
 </table>
 
@@ -74,6 +81,62 @@
 这些誓词，没有一点伦理道德的因素，没有正义，听起来令人毛骨悚然，被其绑架的感觉，让你为它卖命、把性命交给它。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/whytd.epub?raw=true">epub 下載  (音频、图文)</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/hao">【法轮大法洪传世界】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/hao-1"><img src="gm/img/fldfhao.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/fldfhao-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">法轮修炼大法（又称法轮功）是由李洪志先生创编的佛家上乘修炼大法，同化宇宙最高特性“真、善、忍”，按照宇宙演化原理而修炼，修的是大法大道。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/fldfhao.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/99425">【“四‧二五”中南海万人上访真相】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://github.com/3fmd/gm/blob/master/gm/epub/425-20180524.epub?raw=true"><img src="gm/img/425.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/425-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">十九年前的“四·二五”，法轮功学员用行动为广大中国民众打开了一条理智、勇气、和平的希望之路。在法轮功学员不懈的讲真相过程中，越来越多的中国民众认清中共邪恶本质摆脱恐惧，对邪恶说不。<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/425-20180524.epub?raw=true">epub 下載  (图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/zf">【16年前的长春3.05插播壮举】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/305"><img src="gm/img/305.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/305-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">2002 年 3 月 5 日,《是自焚还是骗局》等真相电视片在长春有线电视播出,长春沸腾了! 震惊的人们纷纷电话告诉亲友同事，让他们打开电视看真相——原来天安门自焚是假的！原来对法轮功的报道是栽赃啊，原来国外都知道法轮功好啊……</p>
+
+这次成功的电视插播,是大陆有线电视网络争取自由、传播真相的杰作，民众都站在了正义一边。江泽民听到之后,怒不可遏地发出密令“杀无赦”！警方开始疯狂地在全城大搜捕。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/305.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/wnn">【小之每日真相】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/xz-2"><img src="gm/img/2018-The_daily_truth.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/2018-The_daily_truth-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">风儿轻轻地吹 音信飘过大海高山 日日为你牵挂 只为你能平安 抛弃红魔见真相 待到天清复明那日 快快乐乐得太平 小之每日真相为你而来．．．<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_1.epub?raw=true">epub 下載  (小之每日真相-1 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_2.epub?raw=true">epub 下載  (小之每日真相-2 音频、图文)</td>
+  </tr>
+</table>
+
+
 
 <table>
   <tr>
@@ -129,6 +192,19 @@
 
 <table>
   <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/yer">【一位律师的肺腑直言】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/lss"><img src="gm/img/lawyer.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/lawyer-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">这是中国大陆一位法轮功学员讲述的一位正义律师的肺腑之言。这个律师的故事震憾了我，也震憾了许多人，有的人一遍又一遍看这个故事，眼中满含热泪。希望更多的人能够看到这个故事，从中得到启发，在至关重要的是非、善恶、正邪之间作出正确的抉择。<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/lawyer.epub?raw=true">epub 下載  (图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
 <td align="center" colspan="2"><h1><b><a href="https://git.io/yer">【让法官傻眼的辩护词】</a></b></h1>
  </tr>
 <tr>
@@ -150,79 +226,6 @@
 </tr>
  <tr>
 <td align="center" colspan="2">中共为什么要封锁？是因为党特别害怕人民得到自由的讯息。自由门、无界等提供安卓版与电脑版免费又安全的翻墙软件。<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/fangqian.epub?raw=true">epub 下载  (视频、图文)</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/wnn">【小之每日真相】</a></b></h1>
- </tr>
-<tr>
-        <td align="center" width="550"><a href="https://git.io/xz-2"><img src="gm/img/2018-The_daily_truth.jpg"></a>
-        <td align="center" width="450"><img src="gm/img/2018-The_daily_truth-qr.png"></td>
-</tr>
- <tr>
- <td align="center" colspan="2">风儿轻轻地吹 音信飘过大海高山 日日为你牵挂 只为你能平安 抛弃红魔见真相 待到天清复明那日 快快乐乐得太平 小之每日真相为你而来．．．<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_1.epub?raw=true">epub 下載  (小之每日真相-1 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_2.epub?raw=true">epub 下載  (小之每日真相-2 音频、图文)</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-<td align="center" colspan="2"><h1><b><a href="https://github.com/dfchunsring/wer/blob/master/jzmqr.md">【江泽民其人】</a></b></h1>
- </tr>
-<tr>
-        <td align="center" width="550"><a href="https://git.io/jzm"><img src="gm/img/jzmqr.jpg"></a>
-        <td align="center" width="450"><img src="gm/img/jzmqr-p-qr.png"></td>
-</tr>
- <tr>
- <td align="center" colspan="2">江泽民到底是个什么样的人？他的出身到底如何？他怎么从一个不被看好的过渡性人物党同伐异，成为一个独裁者？历史安排了他这样一个人到底是为了扮演什么角色？大纪元编辑部深感还原历史真相是我们不可推卸的责任，因此精心搜集资料，并特别从中共高层挖掘到很多有关江泽民的内幕和秘闻，整理出这本三十万字的《江泽民其人》，资料宏富，体大思精。这些鲜为人知的故事，不但构成了一个完整而真实的江泽民，更以跨越时空的方式揭示江泽民前世今生，并预告其下场。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-p-2018.epub?raw=true
-">epub 下載  (图文)<br>
-<a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pal-5k-2018.epub?raw=true">epub 下載  (音频全书-网络链接)
-<br>	 
-<a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pa-5k1-2018.epub?raw=true">epub 下載  (音频全书-实体镶崁-上)<br>
-<a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pa-5k2-2018.epub?raw=true">epub 下載  (音频全书-实体镶崁-下)
-</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/99425">【“四‧二五”中南海万人上访真相】</a></b></h1>
- </tr>
-<tr>
-        <td align="center" width="550"><a href="https://github.com/3fmd/gm/blob/master/gm/epub/425-20180524.epub?raw=true"><img src="gm/img/425.jpg"></a>
-        <td align="center" width="450"><img src="gm/img/425-qr.png"></td>
-</tr>
- <tr>
- <td align="center" colspan="2">十九年前的“四·二五”，法轮功学员用行动为广大中国民众打开了一条理智、勇气、和平的希望之路。在法轮功学员不懈的讲真相过程中，越来越多的中国民众认清中共邪恶本质摆脱恐惧，对邪恶说不。<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/425-20180524.epub?raw=true">epub 下載  (图文)</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/zf">【16年前的长春3.05插播壮举】</a></b></h1>
- </tr>
-<tr>
-        <td align="center" width="550"><a href="https://git.io/305"><img src="gm/img/305.jpg"></a>
-        <td align="center" width="450"><img src="gm/img/305-qr.png"></td>
-</tr>
- <tr>
- <td align="center" colspan="2">2002 年 3 月 5 日,《是自焚还是骗局》等真相电视片在长春有线电视播出,长春沸腾了! 震惊的人们纷纷电话告诉亲友同事，让他们打开电视看真相——原来天安门自焚是假的！原来对法轮功的报道是栽赃啊，原来国外都知道法轮功好啊……</p>
-
-这次成功的电视插播,是大陆有线电视网络争取自由、传播真相的杰作，民众都站在了正义一边。江泽民听到之后,怒不可遏地发出密令“杀无赦”！警方开始疯狂地在全城大搜捕。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/305.epub?raw=true">epub 下載  (视频、图文)</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/yer">【一位律师的肺腑直言】</a></b></h1>
- </tr>
-<tr>
-        <td align="center" width="550"><a href="https://git.io/lss"><img src="gm/img/lawyer.jpg"></a>
-        <td align="center" width="450"><img src="gm/img/lawyer-qr.png"></td>
-</tr>
- <tr>
- <td align="center" colspan="2">这是中国大陆一位法轮功学员讲述的一位正义律师的肺腑之言。这个律师的故事震憾了我，也震憾了许多人，有的人一遍又一遍看这个故事，眼中满含热泪。希望更多的人能够看到这个故事，从中得到启发，在至关重要的是非、善恶、正邪之间作出正确的抉择。<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/lawyer.epub?raw=true">epub 下載  (图文)</td>
   </tr>
 </table>
 

@@ -1,4 +1,4 @@
-<img src="gm/img/MHZB.jpg" width=880>
+<img src="gm/img/MHZB.jpg" width=640>
 
 
 <table  cellspacing="1" cellpadding="1">

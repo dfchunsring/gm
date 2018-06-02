@@ -262,18 +262,23 @@
 	<td align="center" width="250">說明</td>
 
 <tr>
+	<td width="640">六四的伤口 28年的记忆</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/64.epub?raw=true">视频、图文</a></td>
+</tr>
+
+<tr>
 	<td width="640">马克思的成魔之路</td>
-	<td><a href="https://git.io/mks">圖文</a></td>
+	<td><a href="https://git.io/mks">图文</a></td>
 </tr>
 
 <tr>
 	<td width="640">风雨天地行</td>
-	<td><a href="https://git.io/fytdx">圖文</a></td>
+	<td><a href="https://git.io/fytdx">图文</a></td>
 </tr>
 
 <tr>
 	<td>死刑犯遮不住器官市场的蘑菇云</td>
-	<td><a href="https://git.io/mro">圖文</a></td>
+	<td><a href="https://git.io/mro">图文</a></td>
 </tr>
 <tr>
 	<td><a href="https://git.io/good">【2018新唐人全球华人新年晚会——神韵晚会】</a></td>

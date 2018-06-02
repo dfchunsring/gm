@@ -1,3 +1,6 @@
+<img src="gm/img/MHZB.jpg" width=880>
+
+
 <table  cellspacing="1" cellpadding="1">
 <tr  width="890">
 	<td align="center" width="640">epub版电子书</td>

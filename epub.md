@@ -84,6 +84,19 @@
 
 <table>
   <tr>
+<td align="center" colspan="2"><h1><b><a href="https://github.com/sodore/dsds/blob/master/rewuo.md">【为什么劝你退党、退团、退队】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/fyou"><img src="gm/img/foryou.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/foryou-fq.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">大陆退党义工表示，现在大陆民众接受真相并“三退”越来越容易，包括很多大陆政法、公安系统人士；在海外，大陆游客整团“三退”现象现在很普遍；真名登记三退的人多了，支持和感谢法轮功的人也越来越多。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/foryou-2018-0603.epub?raw=true">epub 下載  (图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
 <td align="center" colspan="2"><h1><b><a href="https://git.io/hao">【法轮大法洪传世界】</a></b></h1>
  </tr>
 <tr>

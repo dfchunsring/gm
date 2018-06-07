@@ -84,6 +84,21 @@
 
 <table>
   <tr>
+<td align="center" colspan="2"><h1><b><a href="http://git.io/zb">【您把毒誓发给了谁】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/fyou-1"><img src="gm/img/whyTD-y0523.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/whyTD-y0523-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">这张图形象的告诉大家，真正听您宣誓的，不是任何具有形象的人或物，而是藏在共产党背后、处于“意识形态”的肉眼看不见的魔鬼撒旦。
+
+共产党要求加入者必须宣誓，连小孩儿都不放过，等于叫大家与魔鬼撒旦订立了生死契约，发毒誓要把一生献给它！话说到这儿，有人会想：这也太吓人了吧？谁说不是呢！稀里糊涂的把自己的宝贵生命交给魔鬼，岂止是“吓人”两个字能说清的呀。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/whyTD-y0523.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
 <td align="center" colspan="2"><h1><b><a href="https://github.com/sodore/dsds/blob/master/rewuo.md">【为什么劝你退党、退团、退队】</a></b></h1>
  </tr>
 <tr>

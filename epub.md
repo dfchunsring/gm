@@ -112,6 +112,19 @@
 
 <table>
   <tr>
+<td align="center" colspan="2"><h1><b><a href="https://github.com/sodore/dsds/blob/master/rewuo.md">【三退是福】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/fyou-3"><img src="gm/img/santuishifu-y0524.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/santuishifu-y0524-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">《九评》与“三退”帮助人们摆脱中共的控制，获得精神自由与新生。目前，海外大纪元退党网站上每天约有8~10万人声明“三退”，至2018年3月23日，“三退”总人数已超过3亿人，“三退”大潮承载着中华民族明辨善恶、摆脱西来邪灵、走出危机并重塑民族精神与信念的历史进程。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/santuishifu-y0524.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
 <td align="center" colspan="2"><h1><b><a href="https://git.io/hao">【法轮大法洪传世界】</a></b></h1>
  </tr>
 <tr>

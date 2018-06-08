@@ -177,7 +177,18 @@
   </tr>
 </table>
 
-
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://github.com/sodore/dsds/blob/master/yaya.md">【大法徒的故事】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/hao-2"><img src="gm/img/dafa-saint-y0607.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/dafa-saint-y0607-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">叙事性非虚构文学系列《大法徒的故事》<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/dafa-saint-y0607.epub?raw=true">epub 下載  (图文)</td>
+  </tr>
+</table>
 
 <table>
   <tr>

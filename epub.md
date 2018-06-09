@@ -87,7 +87,7 @@
 <td align="center" colspan="2"><h1><b><a href="http://git.io/zb">【您把毒誓发给了谁】</a></b></h1>
  </tr>
 <tr>
-        <td align="center" width="550"><a href="https://git.io/fyou-1"><img src="gm/img/whyTD-y0523.jpg"></a>
+        <td align="center" width="550"><a href="https://git.io/fyou-1"><img src="gm/img/whyTD-y0523-1.jpg"></a>
         <td align="center" width="450"><img src="gm/img/whyTD-y0523-qr.png"></td>
 </tr>
  <tr>

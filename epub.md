@@ -314,6 +314,11 @@
 	<td align="center" width="250">說明</td>
 
 <tr>
+	<td width="640">【千古英雄人物】</td>
+	<td><a href="https://github.com/ctcb/ttkm/blob/master/cgys.md">图文</a></td>
+</tr>
+
+<tr>
 	<td width="640">六四的伤口 28年的记忆</td>
 	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/64.epub?raw=true">视频、图文</a></td>
 </tr>

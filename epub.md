@@ -52,6 +52,18 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/cee">【《真实的江泽民》】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/cee-1"><img src="gm/img/realjzm_c20180609-600x400.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/realjzm_c20180609-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">我们是在向人类、向未来讲述一段历史，讲述一段正在发生的历史，一段正在发生却不被同世之人所知的历史。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/realjzm_c20180609.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
 
 <table>
   <tr>

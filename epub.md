@@ -326,6 +326,11 @@
 	<td align="center" width="250">說明</td>
 
 <tr>
+	<td width="640">【明慧期刊(真相)-控告江泽民】</td>
+	<td><a href="https://github.com/3fmd/gm/blob/7a3d45dde2ed96a27cbe2e7b1951b4dc2c228c96/gm/epub/mh_kz_z20180611.epub?raw=true">图文</a></td>
+</tr>
+
+<tr>
 	<td width="640">【千古英雄人物】</td>
 	<td><a href="https://github.com/ctcb/ttkm/blob/master/cgys.md">图文</a></td>
 </tr>

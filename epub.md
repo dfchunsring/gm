@@ -10,7 +10,7 @@
 <td align="center" colspan="2"><h1><b><a href="https://git.io/goal-2">【《魔鬼在统治着我们的世界》】</a></b></h1>
  </tr>
 <tr>
-        <td align="center" width="550"><a href="https://git.io/gcc-2"><img src="gm/img/Mgrw.epub"></a>
+        <td align="center" width="550"><a href="https://git.io/gcc-2"><img src="gm/img/Mgrw.jpg"></a>
         <td align="center" width="450"><img src="gm/img/xxx-qr.png"></td>
 </tr>
  <tr>

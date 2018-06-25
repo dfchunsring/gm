@@ -30,7 +30,7 @@
           <td>
             <b>无界</b>
           </td><td>
-            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/um.apk?raw=true"><b>无界一点通</b></a>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/um.apk?raw=true"><b>无界一点通4.5</b></a>
           </td>
          <td>
             <a href="https://github.com/3fmd/gm/blob/master/gm/fq/u.zip?raw=true"><b>无界浏览</b></a>

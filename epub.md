@@ -7,6 +7,19 @@
 
 <table>
   <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/goal-2">【《魔鬼在统治着我们的世界》】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/gcc-2"><img src="gm/img/Mgrw.epub"></a>
+        <td align="center" width="450"><img src="gm/img/xxx-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">东欧共产主义阵营虽已瓦解，但共产主义邪灵并未随之而消亡。相反，这个魔鬼已经在统治我们的世界了。人类绝不能乐观！<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/Mgrw.epub?raw=true">epub 下載 1~17  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
 <td align="center" colspan="2"><h1><b><a href="https://git.io/goal">【《共产主义的终极目的-中国篇》】</a></b></h1>
  </tr>
 <tr>

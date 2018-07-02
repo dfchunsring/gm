@@ -331,7 +331,7 @@
         <td align="center" width="450"><img src="gm/img/MHZB_689-qrt.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">《明慧周报》隶属于法轮大法明慧网，取材于明慧网，旨在帮助社会各界了解法轮功真相，其中包括明慧网首发的法轮功学员在大陆被迫害的真相、法轮功修炼真相，法轮功学员对“真善忍”的理解和实践，对宇宙、人生、人体、生命本质的看法和人生感悟等等。<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_689.epub?raw=true">epub 下載  (图文)<br> <a href="https://github.com/3fmd/gm/blob/master/mhzb.md">更多其它期</td>
+ <td align="center" colspan="2">《明慧周报》隶属于法轮大法明慧网，取材于明慧网，旨在帮助社会各界了解法轮功真相，其中包括明慧网首发的法轮功学员在大陆被迫害的真相、法轮功修炼真相，法轮功学员对“真善忍”的理解和实践，对宇宙、人生、人体、生命本质的看法和人生感悟等等。<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_689.epub?raw=true">epub 下載  (图文)<br> <a href="https://github.com/3fmd/gm/blob/master/mhzb.md">更多(~698)其它期</td>
   </tr>
 </table>
 

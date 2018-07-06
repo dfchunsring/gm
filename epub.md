@@ -139,6 +139,19 @@
 
 <table>
   <tr>
+<td align="center" colspan="2"><h1><b><a href="https://github.com/goodabc/GCC/blob/master/goal.md">【慎思明辨 选择未来】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/fyou-4"><img src="gm/img/shensiminjian-2inl-read-online1.png"></a>
+        <td align="center" width="450"><img src="gm/img/shensiminjian-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">究竟什么是邪教？邪教有哪些特征？为什么中共不遗余力地以此栽赃法轮功？我们相信，当您看完本特刊后，一定会豁然开朗。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/shensiminjian_20180706.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
 <td align="center" colspan="2"><h1><b><a href="https://github.com/sodore/dsds/blob/master/rewuo.md">【三退是福】</a></b></h1>
  </tr>
 <tr>

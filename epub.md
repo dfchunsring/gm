@@ -1,7 +1,6 @@
-<div align="center"><IMG SRC="gm/img-2/logo-0721.jpg" width=640></div><br>
-<IMG SRC="gm/img-2/0721.jpg" width=640><br>
+<div align="center"><IMG SRC="gm/img-2/logo-0721.jpg" width=640><br>
+<IMG SRC="gm/img-2/0721.jpg" width=640></div><br>
 
-	
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
 <h1 align="center"><b>手机上好看的电子书（ePub版）</b></h1>
@@ -229,6 +228,20 @@
 </tr>
  <tr>
  <td align="center" colspan="2">叙事性非虚构文学系列《大法徒的故事》<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/dafa-saint-y0607.epub?raw=true">epub 下載  (图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/hj">【中共活摘器官】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://github.com/3fmd/gm/blob/master/gm/epub/huozhai_y.epub?raw=true"><img src="gm/img/huozhai_y.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/huozhai_y-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">从1999年到2007年，中国器官移植市场飞速发展。在2003年，中国器官移植数量突然大幅度成倍增长。2003年到2006年间，在国际上掀起了到中国的器官移植旅游热潮。</p>
+中国一些医院的器官平均等待时间是1～2周（国外要等2～3年）。超短的器官等待时间，意味着不同寻常的器官来源。<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/huozhai_y.epub?raw=true">epub 下載  (视频、图文)</td>
   </tr>
 </table>
 

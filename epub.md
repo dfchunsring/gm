@@ -1,5 +1,6 @@
-<div align="center"><IMG SRC="gm/img-2/0721.jpg" width=640><br>
-<IMG SRC="gm/img-2/logo-0721.jpg" width=640></div><br>
+<div align="center"><IMG SRC="gm/img-2/logo-0721.jpg" width=640></div><br>
+<IMG SRC="gm/img-2/0721.jpg" width=640><br>
+
 	
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
@@ -143,7 +144,7 @@
 <td align="center" colspan="2"><h1><b><a href="https://github.com/goodabc/GCC/blob/master/goal.md">【慎思明辨 选择未来】</a></b></h1>
  </tr>
 <tr>
-        <td align="center" width="550"><a href="https://git.io/fyou-4"><img src="gm/img/shensiminjian-2inl-read-online1.png"></a>
+        <td align="center" width="550"><a href="https://git.io/fyou-4"><img src="gm/img/shensiminjian.jpg"></a>
         <td align="center" width="450"><img src="gm/img/shensiminjian-qr.png"></td>
 </tr>
  <tr>

@@ -51,38 +51,6 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://github.com/dfchunsring/wer/blob/master/jzmqr.md">【江泽民其人】</a></b></h1>
- </tr>
-<tr>
-        <td align="center" width="550"><a href="https://git.io/jzm"><img src="gm/img/jzmqr.jpg"></a>
-        <td align="center" width="450"><img src="gm/img/jzmqr-p-qr.png"></td>
-</tr>
- <tr>
- <td align="center" colspan="2">江泽民到底是个什么样的人？他的出身到底如何？他怎么从一个不被看好的过渡性人物党同伐异，成为一个独裁者？历史安排了他这样一个人到底是为了扮演什么角色？大纪元编辑部深感还原历史真相是我们不可推卸的责任，因此精心搜集资料，并特别从中共高层挖掘到很多有关江泽民的内幕和秘闻，整理出这本三十万字的《江泽民其人》，资料宏富，体大思精。这些鲜为人知的故事，不但构成了一个完整而真实的江泽民，更以跨越时空的方式揭示江泽民前世今生，并预告其下场。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-p-2018.epub?raw=true
-">epub 下載  (图文)<br>
-<a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pal-5k-2018.epub?raw=true">epub 下載  (音频全书-网络链接)
-<br>	 
-<a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pa-5k1-2018.epub?raw=true">epub 下載  (音频全书-实体镶崁-上)<br>
-<a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pa-5k2-2018.epub?raw=true">epub 下載  (音频全书-实体镶崁-下)
-</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/cee">【《真实的江泽民》】</a></b></h1>
- </tr>
-<tr>
-        <td align="center" width="550"><a href="https://git.io/cee-1"><img src="gm/img/realjzm_c20180609-600x400.jpg"></a>
-        <td align="center" width="450"><img src="gm/img/realjzm_c20180609-qr.png"></td>
-</tr>
- <tr>
- <td align="center" colspan="2">我们是在向人类、向未来讲述一段历史，讲述一段正在发生的历史，一段正在发生却不被同世之人所知的历史。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/realjzm_c20180609.epub?raw=true">epub 下載  (视频、图文)</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
 <td align="center" colspan="2"><h1><b><a href="http://git.io/zb">【三亿退党潮】</a></b></h1>
  </tr>
 <tr>
@@ -281,6 +249,39 @@
 </tr>
  <tr>
  <td align="center" colspan="2">新闻时事 1 （2018.3.31）（2018.4.6）（2018.4.16）<a href="https://github.com/3fmd/gm/blob/master/gm/epub/mhjs-1.epub?raw=true">epub 下載  (音频、图文)</a><br>新闻时事 2 （2018.3.29）（2018.4.24）<a href="https://github.com/3fmd/gm/blob/master/gm/epub/mhjs-2.epub?raw=true">epub 下載  (音频、图文)</a><br>新闻时事 3 （2018.5.1）（2018.5.6）<a href="https://github.com/3fmd/gm/blob/master/gm/epub/mhjs-3.epub?raw=true">epub 下載  (音频、图文)</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://github.com/dfchunsring/wer/blob/master/jzmqr.md">【江泽民其人】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/jzm"><img src="gm/img/jzmqr.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/jzmqr-p-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">江泽民到底是个什么样的人？他的出身到底如何？他怎么从一个不被看好的过渡性人物党同伐异，成为一个独裁者？历史安排了他这样一个人到底是为了扮演什么角色？大纪元编辑部深感还原历史真相是我们不可推卸的责任，因此精心搜集资料，并特别从中共高层挖掘到很多有关江泽民的内幕和秘闻，整理出这本三十万字的《江泽民其人》，资料宏富，体大思精。这些鲜为人知的故事，不但构成了一个完整而真实的江泽民，更以跨越时空的方式揭示江泽民前世今生，并预告其下场。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-p-2018.epub?raw=true
+">epub 下載  (图文)<br>
+<a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pal-5k-2018.epub?raw=true">epub 下載  (音频全书-网络链接)
+<br>	 
+<a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pa-5k1-2018.epub?raw=true">epub 下載  (音频全书-实体镶崁-上)<br>
+<a href="https://github.com/3fmd/gm/blob/master/gm/epub/jzmqr-pa-5k2-2018.epub?raw=true">epub 下載  (音频全书-实体镶崁-下)
+</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/cee">【《真实的江泽民》】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/cee-1"><img src="gm/img/realjzm_c20180609-600x400.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/realjzm_c20180609-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">我们是在向人类、向未来讲述一段历史，讲述一段正在发生的历史，一段正在发生却不被同世之人所知的历史。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/realjzm_c20180609.epub?raw=true">epub 下載  (视频、图文)</td>
   </tr>
 </table>
 

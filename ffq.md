@@ -1,4 +1,4 @@
-<div align="center"><IMG SRC="gm/img-2/0725.jpg" width=640><br>
+<div align="center"><IMG SRC="gm/img-2/0729.jpg" width=640><br>
 <IMG SRC="gm/img-2/logo-0721.jpg" width=640></div><br>
 
 <IMG SRC="gm/img/free-2.png" width=880><br>

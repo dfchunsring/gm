@@ -15,7 +15,7 @@
         <td align="center" width="450"><img src="gm/img/Mgrw-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">东欧共产主义阵营虽已瓦解，但共产主义邪灵并未随之而消亡。相反，这个魔鬼已经在统治我们的世界了。人类绝不能乐观！<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/Mgrw.epub?raw=true">epub 下載 1~20  (视频、图文)</td>
+ <td align="center" colspan="2">东欧共产主义阵营虽已瓦解，但共产主义邪灵并未随之而消亡。相反，这个魔鬼已经在统治我们的世界了。人类绝不能乐观！<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/Mgrw.epub?raw=true">epub 下載 1~21  (视频、图文)</td>
   </tr>
 </table>
 
@@ -51,6 +51,19 @@
 
 <table>
   <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/ykkk">【大难来时何处藏】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/fyou-5"><img src="https://github.com/3fmd/gm/blob/master/gm/img/dnlshcc.png"></a>
+        <td align="center" width="450"><img src="gm/img/dnlshcc-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">“天地两茫茫，世人向何方，迷中不知路，指南有真相；贫富都一样，大难无处藏，网开有一面，快快找真相。”（选自神韵艺术团演出歌曲《找真相》）<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/dnlshcc.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
 <td align="center" colspan="2"><h1><b><a href="http://git.io/zb">【三亿退党潮】</a></b></h1>
  </tr>
 <tr>
@@ -61,6 +74,7 @@
  <td align="center" colspan="2">自2004年11月19日大纪元发表系列社论《九评共产党》以来，中国人在大纪元网站上声明退出中共党、团、队组织。截止到2018年3月23日美东时间凌晨4点时，在大纪元退党网站声明“三退”的人数已突破三亿。该中心负责人易蓉说，从退党人数增长的速度和人们的态度来看，中国人的人心已经发生了巨大的变化。<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/300Mst.epub?raw=true">epub 下載  (视频、图文)</td>
   </tr>
 </table>
+
 
 <table>
   <tr>

@@ -54,7 +54,7 @@
 <td align="center" colspan="2"><h1><b><a href="https://git.io/ykkk">【大难来时何处藏】</a></b></h1>
  </tr>
 <tr>
-        <td align="center" width="550"><a href="https://git.io/fyou-5"><img src="https://github.com/3fmd/gm/blob/master/gm/img/dnlshcc.png"></a>
+        <td align="center" width="550"><a href="https://git.io/fyou-5"><img src="https://github.com/3fmd/gm/blob/master/gm/img/dnlshcc."></a>
         <td align="center" width="450"><img src="gm/img/dnlshcc-qr.png"></td>
 </tr>
  <tr>

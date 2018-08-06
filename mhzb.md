@@ -7,6 +7,26 @@
 	<td align="center" width="640">epub版电子书</td>
 	<td align="center" width="250">說明</td>
 <tr>
+<td width="640">【明慧周报大陆版】（第703期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_703.epub?raw=true">图文</a></td>
+</tr>
+<tr>
+<td width="640">【明慧周报大陆版】（第702期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_702.epub?raw=true">图文</a></td>
+</tr>
+<tr>
+<td width="640">【明慧周报大陆版】（第701期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_701.epub?raw=true">图文</a></td>
+</tr>
+<tr>
+<td width="640">【明慧周报大陆版】（第700期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_700.epub?raw=true">图文</a></td>
+</tr>	
+<tr>
+<td width="640">【明慧周报大陆版】（第699期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_699.epub?raw=true">图文</a></td>
+</tr>
+<tr>
 <td width="640">【明慧周报大陆版】（第698期）</td>
 <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_698.epub?raw=true">图文</a></td>
 </tr>	

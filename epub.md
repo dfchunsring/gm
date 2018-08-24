@@ -383,7 +383,10 @@
 	<td align="center" width="640">更多epub版电子书</td>
 	<td align="center" width="250">說明</td>
 
-
+<tr>
+	<td width="640">【中共头号特务 — —  揭开曾庆红的真实面目】</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/zgthtw-0816.epub?raw=true">图文</a></td>
+</tr>
 <tr>
 	<td width="640">【起诉江泽民】</td>
 	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/qsjzm.epub?raw=true">图文</a></td>

@@ -383,6 +383,13 @@
 	<td align="center" width="640">更多epub版电子书</td>
 	<td align="center" width="250">說明</td>
 
+
+<tr>
+	<td width="640">【起诉江泽民】</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/qsjzm.epub?raw=true">图文</a></td>
+</tr>
+
+
 <tr>
 	<td width="640">【明慧期刊(真相)-控告江泽民】</td>
 	<td><a href="https://github.com/3fmd/gm/blob/7a3d45dde2ed96a27cbe2e7b1951b4dc2c228c96/gm/epub/mh_kz_z20180611.epub?raw=true">图文</a></td>

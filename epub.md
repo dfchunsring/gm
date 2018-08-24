@@ -399,6 +399,11 @@
 </tr>
 
 <tr>
+	<td width="640">【共产主义黑皮书】</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/hpbook-1.epub?raw=true">图文</a></td>
+</tr>
+
+<tr>
 	<td width="640">【千古英雄人物】</td>
 	<td><a href="https://github.com/ctcb/ttkm/blob/master/cgys.md">图文</a></td>
 </tr>

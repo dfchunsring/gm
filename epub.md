@@ -236,7 +236,7 @@
         <td align="center" width="450"><img src="gm/img/2018-The_daily_truth-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">小之每日真相为你而来．．．<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_1.epub?raw=true">epub 下載  (小之每日真相-1 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_2.epub?raw=true">epub 下載  (小之每日真相-2 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_3.epub?raw=true">epub 下載  (小之每日真相-3 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_4.epub?raw=true">epub 下載  (小之每日真相-4 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_5.epub?raw=true">epub 下載  (小之每日真相-5 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_6.epub?raw=true">epub 下載  (小之每日真相-5 音频、图文)</td>
+ <td align="center" colspan="2">小之每日真相为你而来．．．<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_1.epub?raw=true">epub 下載  (小之每日真相-1 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_2.epub?raw=true">epub 下載  (小之每日真相-2 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_3.epub?raw=true">epub 下載  (小之每日真相-3 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_4.epub?raw=true">epub 下載  (小之每日真相-4 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_5.epub?raw=true">epub 下載  (小之每日真相-5 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_6.epub?raw=true">epub 下載  (小之每日真相-6 音频、图文)</td>
   </tr>
 </table>
 

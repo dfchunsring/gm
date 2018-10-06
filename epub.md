@@ -1,6 +1,8 @@
 <div align="center"><!-- <IMG SRC="gm/img-2/logo-0721.jpg" width=640><br> -->
 <IMG SRC="gm/img-2/1002.jpg" width=640></div><br>
 
+新唐人 新聞 評論 視頻  http://61.228.119.244
+
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
 <h1 align="center"><b>手机上好看的电子书（ePub版）</b></h1>

@@ -16,7 +16,7 @@
         <td align="center" width="450"><img src="gm/img/Mgrw-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">东欧共产主义阵营虽已瓦解，但共产主义邪灵并未随之而消亡。相反，这个魔鬼已经在统治我们的世界了。人类绝不能乐观！<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/Mgrw.epub?raw=true">epub 下載 1~24  (视频、图文)</td>
+ <td align="center" colspan="2">东欧共产主义阵营虽已瓦解，但共产主义邪灵并未随之而消亡。相反，这个魔鬼已经在统治我们的世界了。人类绝不能乐观！<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/Mgrw.epub?raw=true">epub 下載 1~25  (视频、图文)</td>
   </tr>
 </table>
 

@@ -1,11 +1,28 @@
-<IMG SRC="gm/img/lian-y3-0510.jpg" width=880></p>
-<h1 align="center"><b>手机上好看的电子书（ePub版）</b></h1>
+<div align="center"><IMG SRC="gm/img-2/ntdtvflower.jpg" width=800><br>
 
-<h2 align="center"> (推荐)Reasily - EPUB 阅读器，可以观看视频、音频EPUB。<br><a href="https://github.com/3fmd/gm/blob/master/gm/download/Reasily1802h.apk?raw=true">点击直接下载</a></h2>
+新唐人视频 http://61.228.118.66</div>
+
+<a href=https://git.io/01><h6 align="right">回首頁</h6></a>
+
+<h1 align="center"><b>手机上好看的电子书（ePub版）</b></h1>
+<h2 align="center"> (推荐)Reasily - EPUB 阅读器，可以观看视频、音频、图文EPUB。<br><a href="https://github.com/3fmd/gm/blob/master/gm/download/Reasily1802h.apk?raw=true">点击直接下载</a></h2>
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://github.com/3fmd/gm/blob/master/gm/epub/gbUltiGoalCmChina.epub?raw=true">【《共产主义的终极目的-中国篇》】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/goal-2">【《魔鬼在统治着我们的世界》】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/gcc-2"><img src="gm/img/Mgrw.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/Mgrw-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">东欧共产主义阵营虽已瓦解，但共产主义邪灵并未随之而消亡。相反，这个魔鬼已经在统治我们的世界了。人类绝不能乐观！<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/Mgrw.epub?raw=true">epub 下載 1~24  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/goal">【《共产主义的终极目的-中国篇》】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://github.com/3fmd/gm/blob/master/gm/epub/gbUltiGoalCmChina.epub?raw=true"><img src="gm/img/gbUltiGoalCmChina.jpg"></a>
@@ -21,33 +38,7 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/300Mst">【三亿退党潮】</a></b></h1>
- </tr>
-<tr>
-        <td align="center" width="550"><a href="https://git.io/300Mst"><img src="https://github.com/3fmd/gm/blob/master/gm/img/300Mst.jpg"></a>
-        <td align="center" width="450"><img src="gm/img/300Mst-qr.png"></td>
-</tr>
- <tr>
- <td align="center" colspan="2">自2004年11月19日大纪元发表系列社论《九评共产党》以来，中国人在大纪元网站上声明退出中共党、团、队组织。截止到2018年3月23日美东时间凌晨4点时，在大纪元退党网站声明“三退”的人数已突破三亿。该中心负责人易蓉说，从退党人数增长的速度和人们的态度来看，中国人的人心已经发生了巨大的变化。<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/300Mst.epub?raw=true">epub 下載  (视频、图文)</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/hao-1">【法轮大法洪传世界】</a></b></h1>
- </tr>
-<tr>
-        <td align="center" width="550"><a href="https://git.io/hao-1"><img src="gm/img/fldfhao.jpg"></a>
-        <td align="center" width="450"><img src="gm/img/fldfhao-qr.png"></td>
-</tr>
- <tr>
- <td align="center" colspan="2">法轮修炼大法（又称法轮功）是由李洪志先生创编的佛家上乘修炼大法，同化宇宙最高特性“真、善、忍”，按照宇宙演化原理而修炼，修的是大法大道。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/fldfhao.epub?raw=true">epub 下載  (视频、图文)</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/jpgcd">【九评共产党】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/9m">【九评共产党】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/jpgcd"><img src="gm/img/jpgcd.jpg"></a>
@@ -61,7 +52,34 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/why">【为什么要三退】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/ykkk">【大难来时何处藏】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/fyou-5"><img src="https://github.com/3fmd/gm/blob/master/gm/img/dnlshcc.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/dnlshcc-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">“天地两茫茫，世人向何方，迷中不知路，指南有真相；贫富都一样，大难无处藏，网开有一面，快快找真相。”（选自神韵艺术团演出歌曲《找真相》）<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/dnlshcc.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="http://git.io/zb">【三亿退党潮】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/300Mst"><img src="https://github.com/3fmd/gm/blob/master/gm/img/300Mst.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/300Mst-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">自2004年11月19日大纪元发表系列社论《九评共产党》以来，中国人在大纪元网站上声明退出中共党、团、队组织。截止到2018年3月23日美东时间凌晨4点时，在大纪元退党网站声明“三退”的人数已突破三亿。该中心负责人易蓉说，从退党人数增长的速度和人们的态度来看，中国人的人心已经发生了巨大的变化。<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/300Mst.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="http://git.io/zb">【为什么要三退】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/why"><img src="gm/img/whytd.jpg"></a>
@@ -77,14 +95,55 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/fqq">【突破封锁看世界】翻墙软件手册</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="http://git.io/zb">【您把毒誓发给了谁】</a></b></h1>
  </tr>
 <tr>
-        <td align="center" width="550"><a href="https://git.io/fqq"><img src="gm/img/fangqian2.jpg"></a>
-        <td align="center" width="450"><img src="gm/img/fangqian-qr.png"></td>
+        <td align="center" width="550"><a href="https://git.io/fyou-1"><img src="gm/img/whyTD-y0523-1.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/whyTD-y0523-qr.png"></td>
 </tr>
  <tr>
-<td align="center" colspan="2">中共为什么要封锁？是因为党特别害怕人民得到自由的讯息。自由门、无界等提供安卓版与电脑版免费又安全的翻墙软件。<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/fangqian.epub?raw=true">epub 下载  (视频、图文)</td>
+ <td align="center" colspan="2">这张图形象的告诉大家，真正听您宣誓的，不是任何具有形象的人或物，而是藏在共产党背后、处于“意识形态”的肉眼看不见的魔鬼撒旦。
+
+共产党要求加入者必须宣誓，连小孩儿都不放过，等于叫大家与魔鬼撒旦订立了生死契约，发毒誓要把一生献给它！话说到这儿，有人会想：这也太吓人了吧？谁说不是呢！稀里糊涂的把自己的宝贵生命交给魔鬼，岂止是“吓人”两个字能说清的呀。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/whyTD-y0523.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://github.com/sodore/dsds/blob/master/rewuo.md">【为什么劝你退党、退团、退队】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/fyou"><img src="gm/img/foryou.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/foryou-fq.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">大陆退党义工表示，现在大陆民众接受真相并“三退”越来越容易，包括很多大陆政法、公安系统人士；在海外，大陆游客整团“三退”现象现在很普遍；真名登记三退的人多了，支持和感谢法轮功的人也越来越多。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/foryou-2018-0603.epub?raw=true">epub 下載  (图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://github.com/goodabc/GCC/blob/master/goal.md">【慎思明辨 选择未来】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/fyou-4"><img src="gm/img/shensiminjian.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/shensiminjian-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">究竟什么是邪教？邪教有哪些特征？为什么中共不遗余力地以此栽赃法轮功？我们相信，当您看完本特刊后，一定会豁然开朗。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/shensiminjian_20180706.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://github.com/sodore/dsds/blob/master/rewuo.md">【三退是福】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/fyou-3"><img src="gm/img/santuishifu-y0524.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/santuishifu-y0524-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">《九评》与“三退”帮助人们摆脱中共的控制，获得精神自由与新生。目前，海外大纪元退党网站上每天约有8~10万人声明“三退”，至2018年3月23日，“三退”总人数已超过3亿人，“三退”大潮承载着中华民族明辨善恶、摆脱西来邪灵、走出危机并重塑民族精神与信念的历史进程。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/santuishifu-y0524.epub?raw=true">epub 下載  (视频、图文)</td>
   </tr>
 </table>
 
@@ -97,13 +156,122 @@
         <td align="center" width="450"><img src="gm/img/2018-The_daily_truth-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">风儿轻轻地吹 音信飘过大海高山 日日为你牵挂 只为你能平安 抛弃红魔见真相 待到天清复明那日 快快乐乐得太平 小之每日真相为你而来．．．<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_1.epub?raw=true">epub 下載  (小之每日真相-1 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_2.epub?raw=true">epub 下載  (小之每日真相-2 音频、图文)</td>
+ <td align="center" colspan="2">小之每日真相为你而来．．．<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_1.epub?raw=true">epub 下載  (小之每日真相-1 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_2.epub?raw=true">epub 下載  (小之每日真相-2 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_3.epub?raw=true">epub 下載  (小之每日真相-3 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_4.epub?raw=true">epub 下載  (小之每日真相-4 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_5.epub?raw=true">epub 下載  (小之每日真相-5 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_6.epub?raw=true">epub 下載  (小之每日真相-6 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_7.epub?raw=true">epub 下載  (小之每日真相-7 音频、图文)</td>
+  </tr>
+</table>
+	 
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/hj">【中共活摘器官】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://github.com/3fmd/gm/blob/master/gm/epub/huozhai_y.epub?raw=true"><img src="gm/img/huozhai_y.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/huozhai_y-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">从1999年到2007年，中国器官移植市场飞速发展。在2003年，中国器官移植数量突然大幅度成倍增长。2003年到2006年间，在国际上掀起了到中国的器官移植旅游热潮。</p>
+中国一些医院的器官平均等待时间是1～2周（国外要等2～3年）。超短的器官等待时间，意味着不同寻常的器官来源。<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/huozhai_y.epub?raw=true">epub 下載  (视频、图文)</td>
   </tr>
 </table>
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/jzm">【江泽民其人】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/hj">【这个星球上前所未有的邪恶】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/hj-1"><img src="gm/img/hj.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/hy.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">中共活体摘取法轮功学员器官，群体灭绝性大屠杀 。<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/hj.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/hj">【渝妇被活摘器官时逃生 背后隐藏中共最惊人秘密】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/hj-2"><img src="gm/img/hj-2.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/hj-2-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">重庆远郊的普通村民邓光英，被一帮人强行绑架送到军医院，要活活的从她身上摘取器官，当医生举起手术刀的时候有幸逃生。更令人想不到的是，她还亲眼看到〝活摘器官〞的一幕，亲耳听到了当时的惨叫声！<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/hj-2.epub?raw=true">epub 下載  (图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/hao">【法轮大法洪传世界】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/hao-1"><img src="gm/img/fldfhao.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/fldfhao-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">法轮修炼大法（又称法轮功）是由李洪志先生创编的佛家上乘修炼大法，同化宇宙最高特性“真、善、忍”，按照宇宙演化原理而修炼，修的是大法大道。 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/fldfhao.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/99425">【“四‧二五”中南海万人上访真相】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://github.com/3fmd/gm/blob/master/gm/epub/425-20180524.epub?raw=true"><img src="gm/img/425.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/425-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">十九年前的“四·二五”，法轮功学员用行动为广大中国民众打开了一条理智、勇气、和平的希望之路。在法轮功学员不懈的讲真相过程中，越来越多的中国民众认清中共邪恶本质摆脱恐惧，对邪恶说不。<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/425-20180524.epub?raw=true">epub 下載  (图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/zf">【16年前的长春3.05插播壮举】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/305"><img src="gm/img/305.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/305-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">2002 年 3 月 5 日,《是自焚还是骗局》等真相电视片在长春有线电视播出,长春沸腾了! 震惊的人们纷纷电话告诉亲友同事，让他们打开电视看真相——原来天安门自焚是假的！原来对法轮功的报道是栽赃啊，原来国外都知道法轮功好啊……</p>
+
+这次成功的电视插播,是大陆有线电视网络争取自由、传播真相的杰作，民众都站在了正义一边。江泽民听到之后,怒不可遏地发出密令“杀无赦”！警方开始疯狂地在全城大搜捕。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/305.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://github.com/sodore/dsds/blob/master/yaya.md">【大法徒的故事】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/hao-2"><img src="gm/img/dafa-saint-y0607.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/dafa-saint-y0607-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">叙事性非虚构文学系列《大法徒的故事》<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/dafa-saint-y0607.epub?raw=true">epub 下載  (图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/3f">【明慧简讯_新闻时事】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://github.com/3fmd/gm/blob/master/gm/epub/mhjs-3.epub?raw=true"><img src="gm/img/mhjs.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/mhjs-3-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">新闻时事 1 （2018.3.31）（2018.4.6）（2018.4.16）<a href="https://github.com/3fmd/gm/blob/master/gm/epub/mhjs-1.epub?raw=true">epub 下載  (音频、图文)</a><br>新闻时事 2 （2018.3.29）（2018.4.24）<a href="https://github.com/3fmd/gm/blob/master/gm/epub/mhjs-2.epub?raw=true">epub 下載  (音频、图文)</a><br>新闻时事 3 （2018.5.1）（2018.5.6）<a href="https://github.com/3fmd/gm/blob/master/gm/epub/mhjs-3.epub?raw=true">epub 下載  (音频、图文)</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://github.com/dfchunsring/wer/blob/master/jzmqr.md">【江泽民其人】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/jzm"><img src="gm/img/jzmqr.jpg"></a>
@@ -123,22 +291,33 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/305">【16年前的长春3.05插播壮举】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/cee">【《真实的江泽民》】</a></b></h1>
  </tr>
 <tr>
-        <td align="center" width="550"><a href="https://git.io/305"><img src="gm/img/305.jpg"></a>
-        <td align="center" width="450"><img src="gm/img/305-qr.png"></td>
+        <td align="center" width="550"><a href="https://git.io/cee-1"><img src="gm/img/realjzm_c20180609-600x400.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/realjzm_c20180609-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">2002 年 3 月 5 日,《是自焚还是骗局》等真相电视片在长春有线电视播出,长春沸腾了! 震惊的人们纷纷电话告诉亲友同事，让他们打开电视看真相——原来天安门自焚是假的！原来对法轮功的报道是栽赃啊，原来国外都知道法轮功好啊……</p>
-
-这次成功的电视插播,是大陆有线电视网络争取自由、传播真相的杰作，民众都站在了正义一边。江泽民听到之后,怒不可遏地发出密令“杀无赦”！警方开始疯狂地在全城大搜捕。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/305.epub?raw=true">epub 下載  (视频、图文)</td>
+ <td align="center" colspan="2">我们是在向人类、向未来讲述一段历史，讲述一段正在发生的历史，一段正在发生却不被同世之人所知的历史。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/realjzm_c20180609.epub?raw=true">epub 下載  (视频、图文)</td>
   </tr>
 </table>
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/lss">【一位律师的肺腑直言】</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/ccrs">【【希望之声广播】 传奇人生】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://github.com/3fmd/gm/blob/master/gm/epub/ccrs-20180515.epub?raw=true"><img src="gm/img/ccrs.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/ccrs-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">欢迎您收听《传奇人生》节目，和您分享他們的傳奇故事。<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/ccrs-20180515.epub?raw=true">epub 下載  (音频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/yer">【一位律师的肺腑直言】</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/lss"><img src="gm/img/lawyer.jpg"></a>
@@ -146,6 +325,32 @@
 </tr>
  <tr>
  <td align="center" colspan="2">这是中国大陆一位法轮功学员讲述的一位正义律师的肺腑之言。这个律师的故事震憾了我，也震憾了许多人，有的人一遍又一遍看这个故事，眼中满含热泪。希望更多的人能够看到这个故事，从中得到启发，在至关重要的是非、善恶、正邪之间作出正确的抉择。<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/lawyer.epub?raw=true">epub 下載  (图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/yer">【让法官傻眼的辩护词】</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/bhc"><img src="gm/img/bhc.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/bhc-qr.png"></td>
+</tr>
+ <tr>
+ <td align="center" colspan="2">据不完全统计，二十年来，在全国有数以百计的律师，面对中共江泽民犯罪集团对法轮功学员的迫害和打压，勇敢的站出来，为法轮功学员做无罪辩护，甚至公开上书中共最高层，要求停止迫害法轮功　．．． <br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/bhc-20180523.epub?raw=true">epub 下載  (视频、图文)</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/ree">【突破封锁看世界】翻墙软件手册</a></b></h1>
+ </tr>
+<tr>
+        <td align="center" width="550"><a href="https://git.io/fqq"><img src="gm/img/fangqian2.jpg"></a>
+        <td align="center" width="450"><img src="gm/img/fangqian-qr.png"></td>
+</tr>
+ <tr>
+<td align="center" colspan="2">中共为什么要封锁？是因为党特别害怕人民得到自由的讯息。自由门、无界等提供安卓版与电脑版免费又安全的翻墙软件。<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/fangqian.epub?raw=true">epub 下载  (视频、图文)</td>
   </tr>
 </table>
 
@@ -172,21 +377,7 @@
         <td align="center" width="450"><img src="gm/img/MHZB_689-qrt.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">《明慧周报》隶属于法轮大法明慧网，取材于明慧网，旨在帮助社会各界了解法轮功真相，其中包括明慧网首发的法轮功学员在大陆被迫害的真相、法轮功修炼真相，法轮功学员对“真善忍”的理解和实践，对宇宙、人生、人体、生命本质的看法和人生感悟等等。<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_689.epub?raw=true">epub 下載  (图文)</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/good">【2018新唐人全球华人新年晚会——神韵晚会】</a></b></h1>
- </tr>
-<tr>
-        <td align="center" width="550"><a href="https://git.io/good"><img src="gm/img/sy.jpg"></a>
-        <td align="center" width="450"><img src="gm/img/sy-qr.png"></td>
-</tr>
- <tr>
- <td align="center" colspan="2">【大纪元2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/sy.epub?raw=true">epub 下載  (视频、图文)</td>
+ <td align="center" colspan="2">《明慧周报》隶属于法轮大法明慧网，取材于明慧网，旨在帮助社会各界了解法轮功真相，其中包括明慧网首发的法轮功学员在大陆被迫害的真相、法轮功修炼真相，法轮功学员对“真善忍”的理解和实践，对宇宙、人生、人体、生命本质的看法和人生感悟等等。<br>  <a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_689.epub?raw=true">epub 下載  (图文)<br> <a href="https://github.com/3fmd/gm/blob/master/mhzb.md">更多(~698)其它期</td>
   </tr>
 </table>
 
@@ -196,92 +387,52 @@
 	<td align="center" width="250">說明</td>
 
 <tr>
-<td width="640">【明慧周报大陆版】（第689期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_689.epub?raw=true">圖文</a></td>
+	<td width="640">【中共头号特务 — —  揭开曾庆红的真实面目】</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/zgthtw-0816.epub?raw=true">图文</a></td>
 </tr>
 <tr>
-<td width="640">【明慧周报大陆版】（第688期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_688.epub?raw=true">圖文</a></td>
+	<td width="640">【起诉江泽民】</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/qsjzm.epub?raw=true">图文</a></td>
 </tr>
+
+
 <tr>
-<td width="640">【明慧周报大陆版】（第687期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_687.epub?raw=true">圖文</a></td>
+	<td width="640">【明慧期刊(真相)-控告江泽民】</td>
+	<td><a href="https://github.com/3fmd/gm/blob/7a3d45dde2ed96a27cbe2e7b1951b4dc2c228c96/gm/epub/mh_kz_z20180611.epub?raw=true">图文</a></td>
 </tr>
+
 <tr>
-<td width="640">【明慧周报大陆版】（第686期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_686.epub?raw=true">圖文</a></td>
+	<td width="640">【共产主义黑皮书】</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/hpbook-1.epub?raw=true">图文</a></td>
 </tr>
+
 <tr>
-<td width="640">【明慧周报大陆版】（第685期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_685.epub?raw=true">圖文</a></td>
+	<td width="640">【千古英雄人物】</td>
+	<td><a href="https://github.com/ctcb/ttkm/blob/master/cgys.md">图文</a></td>
 </tr>
+
 <tr>
-<td width="640">【明慧周报大陆版】（第678期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_678.epub?raw=true">圖文</a></td>
+	<td width="640">六四的伤口 28年的记忆</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/64.epub?raw=true">视频、图文</a></td>
 </tr>
-<tr>
-<td width="640">【明慧周报大陆版】（第678期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_678.epub?raw=true">圖文</a></td>
-</tr>
-<tr>
-<td width="640">【明慧周报大陆版】（第684期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_684.epub?raw=true">圖文</a></td>
-</tr>
-<tr>
-<td width="640">【明慧周报大陆版】（第683期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_683.epub?raw=true">圖文</a></td>
-</tr>
-<tr>
-<td width="640">【明慧周报大陆版】（第682期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_682.epub?raw=true">圖文</a></td>
-</tr>
-<tr>
-<td width="640">【明慧周报大陆版】（第681期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_681.epub?raw=true">圖文</a></td>
-</tr>
-<tr>
-<td width="640">【明慧周报大陆版】（第680期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_680.epub?raw=true">圖文</a></td>
-</tr>
-<tr>
-<td width="640">【明慧周报大陆版】（第679期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_679.epub?raw=true">圖文</a></td>
-</tr>
-<tr>
-<td width="640">【明慧周报大陆版】（第678期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_678.epub?raw=true">圖文</a></td>
-</tr>
-<tr>
-<td width="640">【明慧周报大陆版】（第677期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_677.epub?raw=true">圖文</a></td>
-</tr>
-<tr>
-<td width="640">【明慧周报大陆版】（第676期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_676.epub?raw=true">圖文</a></td>
-</tr>		
-<tr>
-<td width="640">【明慧周报大陆版】（第675期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_675.epub?raw=true">圖文</a></td>
-</tr>
-<td width="640">【明慧周报大陆版】（第674期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_674.epub?raw=true">圖文</a></td>
-</tr>
-<td width="640">【明慧周报大陆版】（第673期）</td>
-<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_673.epub?raw=true">圖文</a></td>
-</tr>
+
 <tr>
 	<td width="640">马克思的成魔之路</td>
-	<td><a href="https://git.io/mks">圖文</a></td>
+	<td><a href="https://git.io/mks">图文</a></td>
 </tr>
 
 <tr>
 	<td width="640">风雨天地行</td>
-	<td><a href="https://git.io/fytdx">圖文</a></td>
+	<td><a href="https://git.io/fytdx">图文</a></td>
 </tr>
 
 <tr>
 	<td>死刑犯遮不住器官市场的蘑菇云</td>
-	<td><a href="https://git.io/mro">圖文</a></td>
+	<td><a href="https://git.io/mro">图文</a></td>
+</tr>
+<tr>
+	<td><a href="https://git.io/good">【2018新唐人全球华人新年晚会——神韵晚会】</a></td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/sy.epub?raw=true">(视频、图文)</a></td>
 </tr>
 </table>
 

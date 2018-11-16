@@ -34,7 +34,7 @@
             <a href="https://github.com/3fmd/gm/blob/master/gm/fq/um.apk?raw=true"><b>无界一点通4.5</b></a>
           </td>
          <td>
-            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/u.zip?raw=true"><b>无界浏览</b></a>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/u1805.zip?raw=true"><b>无界浏览18.05正式版 (2018年11月5日)</b></a>
           </td>
         </tr>
        <tr>

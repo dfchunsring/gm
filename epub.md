@@ -386,7 +386,12 @@
 	<td align="center" width="250">說明</td>
 
 <tr>
-	<td width="640">【明慧期刊 三退与平安（第321-339期）】</td>
+	<td width="640">【明慧期刊 三退与平安（第338-343期）】</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/santui-339_343.epub?raw=true">视频、图文</a></td>
+</tr>
+
+<tr>
+	<td width="640">【明慧期刊 三退与平安（第321-338期）】</td>
 	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/santui-321_338.epub?raw=true">视频、图文</a></td>
 </tr>
 

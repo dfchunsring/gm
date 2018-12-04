@@ -1,5 +1,5 @@
 <div align="center"><IMG SRC="gm/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://36.227.98.168</h3></div>
+<h3>新唐人视频 http://111.241.94.74</h3></div>
 
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
@@ -384,6 +384,11 @@
 <tr  width="890">
 	<td align="center" width="640">更多epub版电子书</td>
 	<td align="center" width="250">說明</td>
+
+<tr>
+	<td width="640">【明慧期刊 三退与平安（第338-345期）】</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/santui-339_345.epub?raw=true">视频、图文</a></td>
+</tr>
 
 <tr>
 	<td width="640">【明慧期刊 三退与平安（第338-343期）】</td>

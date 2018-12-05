@@ -1,6 +1,5 @@
-<div align="center"><IMG SRC="gm/img-2/ntdtvflower.jpg" width=800><br>
-
-新唐人视频 http://61.228.118.66</div>
+<div align="center"><IMG SRC="gm/img-2/ntdtvflower.jpg" width=800>
+<h3>新唐人视频 http://111.241.94.74</h3></div>
 
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
@@ -156,7 +155,7 @@
         <td align="center" width="450"><img src="gm/img/2018-The_daily_truth-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">小之每日真相为你而来．．．<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_1.epub?raw=true">epub 下載  (小之每日真相-1 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_2.epub?raw=true">epub 下載  (小之每日真相-2 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_3.epub?raw=true">epub 下載  (小之每日真相-3 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_4.epub?raw=true">epub 下載  (小之每日真相-4 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_5.epub?raw=true">epub 下載  (小之每日真相-5 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_6.epub?raw=true">epub 下載  (小之每日真相-6 音频、图文)<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_7.epub?raw=true">epub 下載  (小之每日真相-7 音频、图文)</td>
+ <td align="center" colspan="2">小之每日真相为你而来．．．<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_1.epub?raw=true">epub 下載  (小之每日真相-1 音频、图文)、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_2.epub?raw=true">-2、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_3.epub?raw=true">-3、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_4.epub?raw=true">-4、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_5.epub?raw=true">-5、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_6.epub?raw=true">-6、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_7.epub?raw=true">-7、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_8.epub?raw=true">-8、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_9.epub?raw=true">-9</td>
   </tr>
 </table>
 	 
@@ -343,7 +342,7 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/ree">【突破封锁看世界】翻墙软件手册</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/ysys">【突破封锁看世界】翻墙软件手册</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/fqq"><img src="gm/img/fangqian2.jpg"></a>
@@ -387,9 +386,30 @@
 	<td align="center" width="250">說明</td>
 
 <tr>
+	<td width="640">【明慧期刊 三退与平安（第339-346期）】</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/santui-339_346.epub?raw=true">视频、图文</a></td>
+</tr>
+
+<tr>
+	<td width="640">【明慧期刊 三退与平安（第338-343期）】</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/santui-339_343.epub?raw=true">视频、图文</a></td>
+</tr>
+
+<tr>
+	<td width="640">【明慧期刊 三退与平安（第321-338期）】</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/santui-321_338.epub?raw=true">视频、图文</a></td>
+</tr>
+
+<tr>
+	<td width="640">【明慧期刊 三退与平安（第300-320期）】</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/santui-300_320.epub?raw=true">图文</a></td>
+</tr>
+
+<tr>
 	<td width="640">【中共头号特务 — —  揭开曾庆红的真实面目】</td>
 	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/zgthtw-0816.epub?raw=true">图文</a></td>
 </tr>
+
 <tr>
 	<td width="640">【起诉江泽民】</td>
 	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/qsjzm.epub?raw=true">图文</a></td>
@@ -503,4 +523,3 @@ ePub格式的电子书能自动根据阅读器屏幕的大小，手持方向等�
       <p></p></li>
     </ul>
   </div>
-

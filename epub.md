@@ -342,7 +342,7 @@
 
 <table>
   <tr>
-<td align="center" colspan="2"><h1><b><a href="https://git.io/ree">【突破封锁看世界】翻墙软件手册</a></b></h1>
+<td align="center" colspan="2"><h1><b><a href="https://git.io/ysys">【突破封锁看世界】翻墙软件手册</a></b></h1>
  </tr>
 <tr>
         <td align="center" width="550"><a href="https://git.io/fqq"><img src="gm/img/fangqian2.jpg"></a>

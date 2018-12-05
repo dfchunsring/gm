@@ -7,6 +7,10 @@
 	<td align="center" width="640">epub版电子书</td>
 	<td align="center" width="250">說明</td>
 
+<tr>
+<td width="640">【明慧周报大陆版】（第719期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_719.epub?raw=true">图文</a></td>
+</tr>
 
 <tr>
 <td width="640">【明慧周报大陆版】（第718期）</td>

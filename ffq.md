@@ -34,7 +34,7 @@
             <a href="https://github.com/3fmd/gm/blob/master/gm/fq/um.apk?raw=true"><b>无界一点通4.5</b></a>
           </td>
          <td>
-            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/u1805.zip?raw=true"><b>无界浏览18.05正式版 (2018年11月5日)</b></a>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/u1805.zip?raw=true"><b>无界浏览18.06正式版 (2018年11月23日)</b></a>
           </td>
         </tr>
        <tr>
@@ -43,7 +43,7 @@
           </td>
          <td></td>
           <td>
-            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/Green_iPPOTV.exe?raw=true"><b>爱博电视</b></a>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/Green_iPPOTV.exe?raw=true"><b>爱博电视 2018年03月18日发布</b></a>
           </td>
         </tr>
        <tr>
@@ -51,7 +51,7 @@
            <b> iNTDTV</b>
           </td>
           <td>
-            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/iNTD_TVsp1.apk?raw=true"><b>iNTDTV</b></a>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/iNTD_TVsp1.apk?raw=true"><b>iNTDTV 2018年05月06日发布</b></a>
           </td>
           <td><//td>
         </tr>

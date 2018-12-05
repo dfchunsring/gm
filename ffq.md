@@ -51,7 +51,7 @@
            <b> iNTDTV</b>
           </td>
           <td>
-            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/iNTD_TVsp1.apk?raw=true"><b>iNTDTV 2018年05月06日发布</b></a>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/iNTD_TV.apk?raw=true"><b>iNTDTV 2018年05月06日发布</b></a>
           </td>
           <td><//td>
         </tr>

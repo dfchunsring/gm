@@ -1,4 +1,4 @@
-<IMG SRC="gm/img/lian-y3-0507.jpg" width=880></p>
+
 <h1 align="center"><b>手机上好看的电子书（ePub版） https://git.io/3f</b></h1>
 
 <table  cellspacing="1" cellpadding="1">

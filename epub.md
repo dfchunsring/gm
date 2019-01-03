@@ -1,13 +1,6 @@
 <div align="center"><IMG SRC="gm/img-2/ntdtvflower.jpg" width=800>
 <h3>新唐人视频 http://61.228.116.228</h3></div>
-<div align="center"><IMG SRC="gm/img-2/1-25.png" width=800>
-<h3> 大陆</h3>
-12/24/2018	Monday	首播	20:00<br>
-12/25/2018	Tuesday	重播	10:00<br>
-12/25/2018	Tuesday	重播	17:00<br>
-12/31/2018	Monday	首播	13:00<br>
-12/31/2018	Monday	重播	20:30
-<h3>【预告】新唐人将独家播出2017神韵交响乐 https://git.io/dici</h3></div>
+
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
 <h1 align="center"><b>手机上好看的电子书（ePub版）</b></h1>
@@ -162,7 +155,7 @@
         <td align="center" width="450"><img src="gm/img/2018-The_daily_truth-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">小之每日真相为你而来．．．<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_1.epub?raw=true">epub 下載  (小之每日真相-1 音频、图文)、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_2.epub?raw=true">-2、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_3.epub?raw=true">-3、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_4.epub?raw=true">-4、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_5.epub?raw=true">-5、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_6.epub?raw=true">-6、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_7.epub?raw=true">-7、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_8.epub?raw=true">-8、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_9.epub?raw=true">-9</td>
+ <td align="center" colspan="2">小之每日真相为你而来．．．<br><a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_1.epub?raw=true">epub 下載  (小之每日真相-1 音频、图文)、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_2.epub?raw=true">-2、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_3.epub?raw=true">-3、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_4.epub?raw=true">-4、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_5.epub?raw=true">-5、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_6.epub?raw=true">-6、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_7.epub?raw=true">-7、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_8.epub?raw=true">-8、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_9.epub?raw=true">-9、<a href="https://github.com/3fmd/gm/blob/master/gm/epub/2018-The_daily_truth_10.epub?raw=true">-10</td>
   </tr>
 </table>
 	 

@@ -1,5 +1,5 @@
 <div align="center"><IMG SRC="gm/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://61.228.116.228</h3></div>
+<h3>新唐人视频 http://220.141.127.30</h3></div>
 
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
@@ -15,7 +15,7 @@
         <td align="center" width="450"><img src="gm/img/Mgrw-qr.png"></td>
 </tr>
  <tr>
- <td align="center" colspan="2">东欧共产主义阵营虽已瓦解，但共产主义邪灵并未随之而消亡。相反，这个魔鬼已经在统治我们的世界了。人类绝不能乐观！<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/Mgrw.epub?raw=true">epub 下載 1~27  (视频、图文)</td>
+ <td align="center" colspan="2">东欧共产主义阵营虽已瓦解，但共产主义邪灵并未随之而消亡。相反，这个魔鬼已经在统治我们的世界了。人类绝不能乐观！<br> <a href="https://github.com/3fmd/gm/blob/master/gm/epub/Mgrw.epub?raw=true">epub 下載 1~28  (视频、图文)</td>
   </tr>
 </table>
 

@@ -387,7 +387,7 @@
 
 <tr>
 	<td width="640">【明慧期刊 三退与平安（第339-349期）】</td>
-	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/santui-339_349.epub?raw=true">视频、图文</a></td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/santui-339_350.epub?raw=true">视频、图文</a></td>
 </tr>
 
 <tr>

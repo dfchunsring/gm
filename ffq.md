@@ -1,6 +1,12 @@
 <div align="center"><IMG SRC="gm/img-2/ntdtvflower.jpg" width=800>
 <h3>新唐人视频 http://220.141.120.7</h3></div>
 
+<div align="center"><IMG SRC="true/img-2/2019-newshow-3.jpg" width=800></div>
+
+<div align="center"><h1>神韵演出特别报导 http://sy.epub.vin/sy/</h1></div><p>
+
+<h1><b><a href="https://git.io/ict">【预告】新唐人中国新年期间独家播出2019全球华人新年晚会</a></b></h1>
+
 <IMG SRC="gm/img/free-2.png" width=880><br>
 
  <div align="center">
@@ -24,7 +30,7 @@
             <a href="https://github.com/3fmd/gm/blob/master/gm/fq/fgma.apk?raw=true"><b>安卓版</b></a>
           </td>
          <td>
-            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/fg764p.zip?raw=true"><b>专业版</b></a>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/fg765p.zip?raw=true"><b>自由门7.65版（2月2日)专业版</b></a>
           </td>
         </tr>
         <tr>
@@ -34,7 +40,7 @@
             <a href="https://github.com/3fmd/gm/blob/master/gm/fq/um.apk?raw=true"><b>无界一点通4.5</b></a>
           </td>
          <td>
-            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/u1806.zip?raw=true"><b>无界浏览18.06正式版 (2018年11月23日)</b></a>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/u1901.zip?raw=true"><b>无界浏览19.01正式版 (2019年1月27日)</b></a>
           </td>
         </tr>
        <tr>

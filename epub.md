@@ -5,7 +5,7 @@
 <div align="center"><h1>神韵演出特别报导 http://sy.epub.vin/sy/</h1></div><p>
 
 
-<h1><b><a href="https://git.io/ict">【预告】新唐人中国新年期间独家播出2019全球华人新年晚会</a></b></h1>
+<h1><b><a href="https://git.io/sss">【预告】新唐人中国新年期间独家播出2019全球华人新年晚会</a></b></h1>
 
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 

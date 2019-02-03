@@ -1,7 +1,7 @@
 <div align="center"><IMG SRC="gm/img-2/ntdtvflower.jpg" width=800>
 <h3>新唐人视频 http://220.141.120.7</h3></div>
 
-<div align="center"><IMG SRC="true/img-2/2019-newshow-3.jpg" width=800></div>
+<div align="center"><IMG SRC="gm/img-2/2019-newshow-3.jpg" width=800></div>
 
 <div align="center"><h1>神韵演出特别报导 http://sy.epub.vin/sy/</h1></div><p>
 
@@ -49,7 +49,7 @@
           </td>
          <td></td>
           <td>
-            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/Green_iPPOTV.exe?raw=true"><b>爱博电视 2018年03月18日发布</b></a>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/Green_iPPOTV.exe?raw=true"><b>爱博电视PC版 2018年03月18日发布</b></a>
           </td>
         </tr>
        <tr>
@@ -57,7 +57,7 @@
            <b> iNTDTV</b>
           </td>
           <td>
-            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/iNTD_TV.apk?raw=true"><b>iNTDTV 2018年05月06日发布</b></a>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/iNTD_TV.apk?raw=true"><b>新唐人安卓版 iNTDTV 2018年05月06日发布</b></a>
           </td>
           <td><//td>
         </tr>

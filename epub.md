@@ -1,7 +1,7 @@
 <div align="center"><IMG SRC="gm/img-2/ntdtvflower.jpg" width=800>
 <h3>新唐人视频 http://220.141.139.204</h3></div>
 
-<div align="center"><IMG SRC="img-2/0215-1-ict.jpg" width=800>
+<div align="center"><IMG SRC="gm/img-2/0215-1-ict.jpg" width=800>
 
 <h3>【预告】新唐人元宵节将播神韵晚会及音乐会 https://git.io/sss</h3></div>
 

@@ -3,9 +3,9 @@
 
 <div align="center"><IMG SRC="gm/img-2/0215-1-ict.jpg" width=800>
 
-<h3>【预告】新唐人元宵节将播神韵晚会及音乐会 https://git.io/sss</h3></div>
+<h3><b>神韵演出特别报导 http://sy.epub.vin/sy</b></h3>
 
-<h1><b><a href="https://git.io/sss">【预告】新唐人元宵节将播神韵晚会及音乐会</a></b></h1>
+<h1><b><a href="https://git.io/sss">【预告】新唐人元宵节将播神韵晚会及音乐会 https://git.io/sss</a></b></h1></div>
 
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 

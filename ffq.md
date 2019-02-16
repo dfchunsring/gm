@@ -30,7 +30,7 @@
             <a href="https://github.com/3fmd/gm/blob/master/gm/fq/fgma.apk?raw=true"><b>安卓版</b></a>
           </td>
          <td>
-            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/fg765p.zip?raw=true"><b>自由门7.65版（2月2日)专业版</b></a>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/fg766r.zip?raw=true"><b>自由門7.66版（2月15日）限制版</b></a>
           </td>
         </tr>
         <tr>

@@ -37,10 +37,10 @@
           <td>
             <b>无界</b>
           </td><td>
-            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/um.apk?raw=true"><b>无界一点通4.5</b></a>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/um.apk?raw=true"><b>无界一点通4.6</b></a>
           </td>
          <td>
-            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/u1901.zip?raw=true"><b>无界浏览19.01正式版 (2019年1月27日)</b></a>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/u.zip?raw=true"><b>无界浏览19.02(压缩版)</b></a>
           </td>
         </tr>
        <tr>

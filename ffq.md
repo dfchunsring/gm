@@ -3,7 +3,7 @@
   
 <div align="center"><IMG SRC="gm/img-2/syfq.jpg" width=800>
 
-<h1><b>神韵演出特别报导 http://sm3.epub.vin/sy</b></h1>
+<h1><b>神韵演出特别报导 http://sm3.epub.vin/sy</b></h1></div>
 
 <IMG SRC="gm/img/free-2.png" width=880><br>
 

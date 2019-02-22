@@ -1,7 +1,7 @@
 <div align="center"><IMG SRC="gm/img-2/ntdtvflower.jpg" width=800>
 <h3>新唐人视频 http://220.141.133.2</h3></div>
   
-<div align="center"><IMG SRC="true/img-2/syfq.jpg" width=800>
+<div align="center"><IMG SRC="gm/img-2/syfq.jpg" width=800>
 
 <h1><b>神韵演出特别报导 http://sm3.epub.vin/sy</b></h1>
 

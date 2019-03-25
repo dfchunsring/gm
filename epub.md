@@ -1,5 +1,5 @@
 <div align="center"><IMG SRC="gm/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://114.37.16.63</h3></div>
+<h3>新唐人视频 http://118.161.49.82</h3></div>
   
 <div align="center"><IMG SRC="gm/img-2/1901162019452124-600x400.jpg" width=800>
 
@@ -390,11 +390,12 @@
 	<td align="center" width="640">更多epub版电子书</td>
 	<td align="center" width="250">說明</td>
 
-
 <tr>
-	<td width="640">【明慧期刊 三退与平安（第354-352期）】</td>
-	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/santui-354_352.epub?raw=true">视频、图文</a></td>
+	<td width="640">【明慧期刊 三退与平安（第355-352期）】</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/santui-355_352?raw=true">视频、图文</a></td>
 </tr>
+
+
 
 <tr>
 	<td width="640">【明慧期刊 三退与平安（第352期）】</td>

@@ -1,5 +1,5 @@
 <div align="center"><IMG SRC="gm/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://114.37.24.246</h3></div>
+<h3>新唐人视频 http://118.161.251.139</h3></div>
   
 <div align="center"><IMG SRC="gm/img-2/1901162019452124-600x400.jpg" width=800>
 
@@ -28,7 +28,7 @@
             <a href="https://github.com/3fmd/gm/blob/master/gm/fq/fgma.apk?raw=true"><b>安卓版</b></a>
           </td>
          <td>
-            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/fg766r.zip?raw=true"><b>自由門7.66版（2月15日）限制版</b></a>
+            <a href="https://github.com/3fmd/gm/blob/master/gm/fq/fg767p.zip?raw=true"><b>自由門7.67版</b></a>
           </td>
         </tr>
         <tr>

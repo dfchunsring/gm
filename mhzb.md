@@ -12,6 +12,11 @@
 
 <tr>
 <td width="640">【明慧周报大陆版】（第719期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_720.epub?raw=true">图文</a></td>
+</tr>
+
+<tr>
+<td width="640">【明慧周报大陆版】（第719期）</td>
 <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_719.epub?raw=true">图文</a></td>
 </tr>
 

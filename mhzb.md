@@ -11,6 +11,51 @@
 	<td align="center" width="250">說明</td>
 
 <tr>
+<td width="640">【明慧周报大陆版】（第740期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_740.epub?raw=true">图文</a></td>
+</tr>
+
+<tr>
+<td width="640">【明慧周报大陆版】（第739期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_739.epub?raw=true">图文</a></td>
+</tr>
+
+<tr>
+<td width="640">【明慧周报大陆版】（第738期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_738.epub?raw=true">图文</a></td>
+</tr>
+
+<tr>
+<td width="640">【明慧周报大陆版】（第737期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_737.epub?raw=true">图文</a></td>
+</tr>
+
+<tr>
+<td width="640">【明慧周报大陆版】（第736期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_736.epub?raw=true">图文</a></td>
+</tr>
+
+<tr>
+<td width="640">【明慧周报大陆版】（第735期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_735.epub?raw=true">图文</a></td>
+</tr>
+
+<tr>
+<td width="640">【明慧周报大陆版】（第734期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_734.epub?raw=true">图文</a></td>
+</tr>
+
+<tr>
+<td width="640">【明慧周报大陆版】（第733期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_733.epub?raw=true">图文</a></td>
+</tr>
+
+<tr>
+<td width="640">【明慧周报大陆版】（第732期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_732.epub?raw=true">图文</a></td>
+</tr>
+
+<tr>
 <td width="640">【明慧周报大陆版】（第731期）</td>
 <td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_731.epub?raw=true">图文</a></td>
 </tr>

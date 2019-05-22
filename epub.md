@@ -392,7 +392,7 @@
 
 <tr>
 	<td width="640">【明慧期刊 三退与平安（第352-360期）】</td>
-	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/santui-352_360.epub?raw=true">视频、图文</a></td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/santui-352_361.epub?raw=true">视频、图文</a></td>
 </tr>
 
 
